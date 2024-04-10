@@ -320,7 +320,7 @@ RANDOM_SEED = 42
 
 
 
-X_blob, y_blob = make_blobs(n_samples=1000,
+X_blob, y_blob = make_blobs(n_samples=10,
     n_features=NUM_FEATURES, # X features
     centers=NUM_CLASSES, # y labels 
     cluster_std=1.5, # give the clusters a little shake up (try changing this to 1.0, the default)
@@ -331,7 +331,8 @@ X_blob, y_blob = make_blobs(n_samples=1000,
 # 2. Turn data into tensors
 X_blob = torch.from_numpy(X_blob).type(torch.float)
 y_blob = torch.from_numpy(y_blob).type(torch.LongTensor)
-print(X_blob[:5], y_blob[:5])
+print(X_blob,end="\n\n\n\n")
+print(y_blob,end="\n\n\n\n")
 
 # 3. Split into train and test sets
 X_blob_train, X_blob_test, y_blob_train, y_blob_test = train_test_split(X_blob,
@@ -392,6 +393,8 @@ for epoch in range(epochs):
     y_pred = torch.softmax(y_logits, dim=1).argmax(dim=1) # go from logits -> prediction probabilities -> prediction labels
     # print(y_logits)
     # 2. Calculate loss and accuracy
+
+    print(y_pred)
     loss = loss_fn(y_logits, y_blob_train) 
     acc = accuracy_fn(y_true=y_blob_train,
                       y_pred=y_pred)
