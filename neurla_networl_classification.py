@@ -22,7 +22,7 @@ def accuracy_fn(y_true, y_pred):
 
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
-n_samples=1000
+n_samples=10000
 torch.manual_seed(42)
 X,y=make_circles(n_samples,noise=0.03,random_state=42)
 X = torch.from_numpy(X).type(torch.float).to(device)
@@ -320,7 +320,7 @@ RANDOM_SEED = 42
 
 
 
-X_blob, y_blob = make_blobs(n_samples=10,
+X_blob, y_blob = make_blobs(n_samples=1000,
     n_features=NUM_FEATURES, # X features
     centers=NUM_CLASSES, # y labels 
     cluster_std=1.5, # give the clusters a little shake up (try changing this to 1.0, the default)
