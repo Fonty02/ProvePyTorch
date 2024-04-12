@@ -211,7 +211,7 @@ valid_dl = DataLoader(valid_ds, batch_size=batch_size)
 class BB_model(nn.Module):
     def __init__(self):
         super(BB_model, self).__init__()
-        resnet = models.resnet34(pretrained=True)
+        resnet = models.resnet34(weights=True)
         layers = list(resnet.children())[:8]
         self.features1 = nn.Sequential(*layers[:6])
         self.features2 = nn.Sequential(*layers[6:])

@@ -3,11 +3,33 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 from torchmetrics import Accuracy
+import sys
 
 
 torch.manual_seed(42)
 device="cuda" if torch.cuda.is_available() else "cpu"
 
+
+BATCH_SIZE,LR,NUM_EPOCHS=None,None,None
+
+if __name__ == "__main__":
+    args=sys.argv[1:]
+    if len(args)==0:
+        BATCH_SIZE=32
+        LR=0.01
+        NUM_EPOCHS=500
+    else:
+        keys=[i.split("=")[0].upper()[2:] for i in args]
+        values=[i.split("=")[1] for i in args]
+        if "BATCH_SIZE" in keys and "LR" in keys and "NUM_EPOCHS" in keys:
+            BATCH_SIZE=int(values[keys.index("BATCH_SIZE")])
+            LR=float(values[keys.index("LR")])
+            NUM_EPOCHS=int(values[keys.index("NUM_EPOCHS")])
+        else:
+            print("Please insert the following parameters: BATCH_SIZE, LR, NUM_EPOCHS")
+            sys.exit(1)
+ 
+        
 dataset=pd.read_csv('playlist_tracks.csv')
 dataset=dataset.drop(columns=['author','name'])
 y=pd.DataFrame(dataset['playlistName'])
@@ -28,7 +50,7 @@ X=X.to_numpy()
 X=torch.from_numpy(X).type(torch.float)
 y=torch.from_numpy(y).type(torch.LongTensor).squeeze()
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42,shuffle=True)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.15, random_state=42,shuffle=True)
 
 X_test=X_test.to(device)
 X_train=X_train.to(device)
@@ -38,19 +60,23 @@ y_train=y_train.to(device)
 
 
 
+
+
 model_0 = torch.nn.Sequential(
-    torch.nn.Linear(in_features=NUM_FEATURES,out_features=1024),
+    torch.nn.Linear(in_features=NUM_FEATURES,out_features=32),
     torch.nn.ReLU(),
-    torch.nn.Linear(in_features=1024,out_features=2048),
+    torch.nn.Linear(in_features=32,out_features=64),
     torch.nn.ReLU(),
-    torch.nn.Linear(in_features=2048,out_features=NUM_CLASSES)
+    torch.nn.Linear(in_features=64,out_features=128),
+    torch.nn.ReLU(),
+    torch.nn.Linear(in_features=128,out_features=NUM_CLASSES)
 ).to(device)
 
 loss_fn = torch.nn.CrossEntropyLoss().to(device)
-optimizer = torch.optim.Adam(model_0.parameters(), lr=0.01)
+optimizer = torch.optim.Adam(model_0.parameters(), lr=LR)
 torchmetrics_accuracy = Accuracy(task='multiclass', num_classes=int(NUM_CLASSES)).to(device)
 
-epochs=1300
+epochs=NUM_EPOCHS
 epochs_list=[]
 train_error_list=[]
 test_error_list=[]
