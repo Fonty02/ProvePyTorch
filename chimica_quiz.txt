@@ -1,0 +1,6057 @@
+Domanda 1: 10 grammi di idrossido di litio vengono sciolti in acqua, per un volume finale pari a  1500mL. Il pH finale della soluzione sarà:
+A) circa 10,5
+B) circa 9,5
+C) circa 12,5
+D) circa 13,4
+
+Domanda 2: 2 Ag + Cu2+ ↔ 2 Ag+ + Cu è una reazione (E°ox = - (+ 0.80) e E°rid = + 0.34):
+A) all'equilibrio
+B) spontanea
+C) non spontanea
+D) fortemente spontanea
+
+Domanda 3: 20 ml di HCl(aq) 1,0 M sono diluiti con acqua distillata fino ad ottenere 1,0 di  soluzione. Calcolare il pH della soluzione risultante
+A) 1,7
+B) 2.0
+C) 0
+D) 0.7
+
+Domanda 4: 2MnO4- + 55n2+ + 16H+ → 2Mn2+ + 5Sn4+ + BH2O il numero di elettroni scambiati  nella reazione è:
+A) 5
+B) 20
+C) 10
+D) 2
+
+Domanda 5: 3 O2 (g) ↔ 2 O3 (g) è una reazione caratterizzata da ∆H > 0, ∆S 0. Si può quindi  affermare che la reazione è:
+A) spontanea a basse temperature
+B) spontanea a tutte le temperature
+C) non spontanea a tutte le temperature
+D) spontanea ad alte temperature
+
+Domanda 6: 5 gr di idrossido di litio vengono sciolti in acqua, per un volume finale pari a 1500  ml. Il ph finale della soluzione sarà:
+A) 3.6
+B) circa 13.4 (per info in un altro quiz al posto di 5 gr c’è 10 g = stesso risultato).
+C) 10.1
+D) 12.1
+
+Domanda 7: A 50 ml di una soluzione 0,06M di HCl, viene aggiunto un volume pari al doppio di  una soluzione identica di HCl 0,06 M. Come cambia la concentrazione della  soluzione?
+A) Diventa 0,03M
+B) Diventa 0,09M
+C) Resta uguale
+D) Diventa il doppio
+
+Domanda 8: A che temperatura 50 g di azoto (N2, Massa molare 28 g/mol) tenuti a pressione  atmosferica, occupano un volume di 20 l?
+A) 162°C
+B) -151°C
+C) 136°C
+D) -136*C
+
+Domanda 9: A quale volume si devono diluire 10 ml di NaOH 6M per ottenere NaOH 0,5M?
+A) 30ml
+B) 120ml
+C) 60ml
+D) 12ml
+
+Domanda 10: A quali temperature pensi che la seguente reazione sia spontanea? PCl3(g) + Cl2(g)  → PCl5(g) ΔH= –86 kJ:
+A) A tutte le temperature.
+B) Solo alle alte temperature.
+C) Mai spontanea.
+D) la temperatura non influenza la reazione B. Solo alle basse temperature
+
+Domanda 11: A quante moli di acqua corrispondono 1,8 • 1021 molecole di acqua:
+A) 30
+B) 0,3
+C) 0,03
+D) 0,003
+
+Domanda 12: Al punto isoelettrico, un amminoacido:
+A) è presente in forma non ionizzata
+B) è presente in forma zwitterionica
+C) possiede una carica netta positiva
+D) migra in un campo elettrico
+
+Domanda 13: Alcune N-nitrosoammine alifatiche sono sostanze:
+A) cancerogene
+B) antibatteriche
+C) corrosive
+D) inerte
+
+Domanda 14: All’anodo di una pila avviene una reazione di:
+A) Riduzione
+B) Neutralizzazione
+C) Precipitazione
+D) ossidazione
+
+Domanda 15: Ammessi i pesi atomici di H, P ed O sono rispettivamente 1, 31 e 16 uma. Il peso  molecolare espresso in uma dell’acido ortofosforico è:
+A) 98
+B) 48
+C) 96
+D) 50
+
+Domanda 16: Assegnare il nome IUPAC al composto Al2O3:
+A) ossido di alluminio(III)
+B) ossido di alluminio
+C) triossido di alluminio
+D) dialluminio triossido
+
+Domanda 17: Assegnare il nome IUPAC al composto Fe₂O₃:
+A) triossido di diferro
+B) ossido di ferro(III)
+C) triossido di ferro
+D) ossido ferrico
+
+Domanda 18: Assegnare il nome IUPAC al composto Mn2O3:
+A) Ossido di manganese(III)
+B) Ossido manganico
+C) triossido di dimanganese
+D) Diossido di manganese
+
+Domanda 19: Attraverso una membrana semipermeabile vengono messe a contatto due soluzioni  acquose di glucosio, C 6H12O6. La soluzione (a) è 0,325 M, la soluzione (b) è 0,0325  M. Quale delle seguenti affermazioni NON è corretta?
+A) Il glucosio passa dalla soluzione (a) alla soluzione (b)
+B) Il glucosio passa dalla soluzione (b) alla soluzione (a)
+C) L'acqua passa dalla soluzione (a) alla soluzione (b)
+D) Dopo un tempo sufficiente, le concentrazioni di glucosio in (a) e (b) saranno uguali
+
+Domanda 20: Aumentando la temperatura e la pressione di una determinata massa di gas (ideale)  il volume:
+A) Diminuisce sempre
+B) si comporta in modo diverso a seconda del peso molecolare del gas
+C) Aumenta sempre
+D) Non dipende dal peso molecolare del gas
+
+Domanda 21: Bilanciare la seguente reazione 2 AsCl3 + 3 H2S → X HCl + As2S3:
+A) 1
+B) 2
+C) X = 6
+D) 3
+
+Domanda 22: Bilanciare la seguente reazione di ossido-riduzione in ambiente acido X Al + Y HCl  → Z AlCl3 + W H2 :
+A) 2 Al + 6 HCl → 2 AlCl3 + 2 H2
+B) 1 Al + 3 HCl → 1 AlCl3 + 1 H2
+C) 2 Al + 6 HCl → 2 AlCl3 + 3 H2
+D) 1 Al + 2 HCl → 1 AlCl3 + 1 H2
+
+Domanda 23: Bilanciare la seguente reazione X HCl + Na2CO3 → H2CO3 + X NaCl:
+A) 4
+B) X =2
+C) 3
+D) 1
+
+Domanda 24: C2H4 è un composto costituito da quattro atomi di idrogeno che pesano 1.0078 Da  ciascuno e da due atomi di carbonio che pesano 12.0107 Da. Il suo peso molecolare  è:
+A) 28,0426 Da
+B) 28,0994 Da
+C) 28,0526 Da (4*1,0078+2*12.0107=4,0312+24,0214)
+D) 50,0584 Da
+
+Domanda 25: Calcola il pH di una soluzione di NaOH che ha molarita’ 0,00019 :
+A) 11.28
+B) 3.72
+C) 9.28
+D) 10.28
+
+Domanda 26: Calcolare la solubilità dell' AgBr sapendo che il suo Kps a 25° C vale circa 1吆󔼖:
+A) 1x10-10
+B) 1x10-7
+C) 1x10-6
+D) 1x10-14
+
+Domanda 27: CCl4 è un composto:
+A) Covalente planare
+B) covalente tetraedrico
+C) Ionico
+D) Covalente polare
+
+Domanda 28: Che cos’è l’acqua pesante ?:
+A) Acqua contenente isotopi pesanti dell'ossigeno
+B) Acqua con metalli pesanti disciolti
+C) Acqua con un'alta concentrazione di sali minerali
+D) l’acqua con due atomi di deuterio
+
+Domanda 29: Che molecola si forma disidratando un alcol?:
+A) alchene
+B) Etere
+C) Alcano
+D) Aldeide
+
+Domanda 30: Che vantaggio ha una reazione catalizzata, rispetto alla medesima reazione non  catalizzata?:
+A) Sposta l'equilibrio verso i prodotti
+B) aumenta la velocità con cui l’equilibrio è raggiunto
+C) Aumenta la quantità totale di prodotto formato
+D) Diminuisce il ΔG complessivo della reazione
+
+Domanda 31: Chiamato A un atomo generico, disporre le seguenti specie chimiche ipotetiche in  ordine di raggio crescente:
+A) A, A+, A-
+B) A+, A-, A
+C) A+, A, A-
+D) A-, A, A+
+
+Domanda 32: CI-Cl rappresenta la molecola biatomica del cloro; il legame che caratterizza tale  sostanza è:
+A) Ionico
+B) Metallico
+C) Covalente polare
+D) covalente puro
+
+Domanda 33: Come andamento generale, l’elettronegatività è inversamente correlata a:
+A) Elettroni di valenza
+B) dimensione atomica
+C) Affinità elettronica
+D) Energia di ionizzazione
+
+Domanda 34: Come si misura la potenza elettromotrice (F.E.M.) di una cella?
+A) La somma dei potenziali standard di catodo e anodo.
+B) Il prodotto dei potenziali standard di catodo e anodo.
+C) Potenziale standard del catodo+ potenziale standard dell’anodo cambiato di segno
+D) La differenza tra il potenziale standard dell'anodo e quello del catodo.
+
+Domanda 35: Come si preparano 100 ml di una soluzione acquosa di NaCl (PM 58) al 4%  peso/volume? :
+A) Pesare 4 g di NaCl e aggiungere 100 ml di acqua.
+B) Pesare 4 g di NaCl e aggiungere 96 ml di acqua.
+C) Pesare 4 g di NaCl e aggiungere 96 g di acqua.
+D) si pesano 4 g di NaCl e si aggiunge acqua fino al volume totale della soluzione di  100 ml
+
+Domanda 36: Come sono i legami (doppi e tripli) nella molecola di acetilene?:
+A) P greco disposti sullo stesso piano
+B) P greco disposti parallelamente al legame sigma
+C) P greco disposti perpendicolarmente tra loro
+D) P greco disposti parallelamente tra loro
+
+Domanda 37: Come viene definito il legame che unisce due atomi di idrogeno?:
+A) Legame polare
+B) Legame idrogeno
+C) Legame ionico
+D) legame covalente
+
+Domanda 38: Completare in modo corretto la frase “L’energiadegli orbitali degli atomi noti aventi  numeroatomico maggiore di 2”:
+A) AUMENTA AL CRESCERE DELLA SOMMA DEI NUMERI QUANTICI PRINCIPALE E AZIMUTALE (n+l)
+B) DIPENDE SIA DAL NUMERO QUANTICO PRINCIPALE CHE DA QUELLO AZIMUTALE
+C) AUMENTA SEMPRE AL CRESCERE DEL SOLO NUMERO QUANTICO PRINCIPALE
+D) È LA STESSA PER TUTTI GLI ORBITALI DELLO STESSO LIVELLO PRINCIPALE
+
+Domanda 39: Completare in modo corretto: “scendendo lungo un gruppo del sistema periodico”:
+A) l'energia di ionizzazione aumenta
+B) il raggio atomico diminuisce
+C) l'elettronegatività aumenta
+D) l’energia di ionizzazione diminuisce
+
+Domanda 40: Completare in modo corretto: dall’alto in basso di un gruppo del sistema periodico:
+A) l’energia di ionizzazione fluttua in modo irregolare
+B) l’energia di ionizzazione rimane costante
+C) l’energia di ionizzazione aumenta
+D) l’energia di ionizzazione diminuisce
+
+Domanda 41: Completare l’espressione: l’effetto di un catalizzatore positivo su una reazione di  equilibrio è quello di:
+A) spostare l'equilibrio verso i prodotti
+B) aumentare la costante di equilibrio
+C) diminuire l’energia di attivazione
+D) aumentare la resa dei prodotti
+
+Domanda 42: Con il reattivo di Tollens le aldeidi sono ossidate a:
+A) esteri
+B) acidi carbossilici
+C) chetoni
+D) alcoli primari
+
+Domanda 43: Con il termine ‘’acqua dura’’ si indica?:
+A) Acqua con scarso contenuto di ossigeno
+B) Acqua non potabile
+C) Acqua a bassa temperatura
+D) acqua ricca di Sali
+
+Domanda 44: Con riferimento alla sostituzione nucleofila acilica mettere in ordine di reattività  crescente i seguenti composti:
+A) estere < ammide < tioestere < anidride < cloruro
+B) ammide < estere < cloruro < tioestere < anidride
+C) ammide < tioestere < estere < anidride < cloruro
+D) (ammide<estere<tioestere<cloruro<anidride E’SBAGLIATA)
+
+Domanda 45: Con riferimento alla sostituzione nucleofila acrilica, mettere in ordine di reattività  crescente i seguenti composti:
+A) ANIDRIDE<ESTERE<AMMIDE
+B) AMMIDE<ESTERE<ANIDRIDE
+C) ESTERE<AMMIDE<ANIDRIDE
+D) AMMIDE<ANIDRIDE<ESTERE
+
+Domanda 46: Condizione sufficiente affinchè una molecola organica possieda isomeria ottica è:
+A) La molecola contiene almeno un atomo di ossigeno
+B) Presenza di un doppio legame carbonio-carbonio
+C) La molecola possiede una struttura planare
+D) la presenza di almeno un atomo di carbonio chirale
+
+Domanda 47: Considerate il tipico diagramma di stato dell’acqua. Partendo da acqua allo stato  solido (ghiaccio), e continuando a diminuire la pressione a temperatura costante di  zero gradi:
+A) rimane solida (ghiaccio) a qualsiasi pressione
+B) diventa liquida
+C) ad un certo punto l’acqua diventa gassosa
+D) raggiunge il punto triplo
+
+Domanda 48: cosa indica la ‘normalità’ di una soluzione?:
+A) massa di soluto per volume di soluzione
+B) numero di moli di soluto per chilogrammo di solvente
+C) numero di moli di soluto per litro di soluzione
+D) numero di equivalenti di soluto per litro di soluzione
+
+Domanda 49: Cosa sono gli enantiomeri?
+A) Sono stereoisomeri che non sono immagini speculari l'uno dell'altro.
+B) Sono stereoisomeri che sono l'uno l'immagine speculare dell'altro e sono sovrapponibili.
+C) Sono isomeri con la stessa formula molecolare ma diversa connettività tra gli atomi.
+D) Sono stereoisomeri che sono l’uno l’immagine speculare dell’altro e non  sovrapponibili
+
+Domanda 50: Da quale reazione si formano gli esteri?
+A) Eteri e Acqua
+B) Alcoli e acidi
+C) Alcoli e Aldeidi
+D) Acidi e Ammine
+
+Domanda 51: Da sinistra a destra lungo un periodo:
+A) il raggio atomico aumenta
+B) l'elettronegatività diminuisce
+C) il raggio atomico diminuisce
+D) l'energia di ionizzazione diminuisce
+
+Domanda 52: Da un punto di vista stereochimico le reazioni SN1 che coinvolgono stereocentri:
+A) producono un prodotto racemico
+B) producono un singolo enantiomero
+C) producono un prodotto con inversione totale della configurazione
+D) producono un prodotto con ritenzione totale della configurazione
+
+Domanda 53: Dai loro calori di idrogenazione si deduce che gli alcheni diventano più stabili  all’aumentare della sostituzione sul doppio legame. Tra le seguenti.. più adeguata è:  i gruppi alchilici stabilizzano gli alcheni mediante effetti elettronici ?
+A) Opzione B (Fallback)
+B) i gruppi alchilici stabilizzano gli alcheni mediante effetti elettronici
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 54: Dal punto di vista della reattività, il doppio legame si comporta spesso da:
+A) Acido di Lewis
+B) Radicale
+C) nucleofilo
+D) Elettrofilo
+
+Domanda 55: Dal punto di vista stereochimico le reazioni SN1 che coinvolgono stereocentri:
+A) producono un unico enantiomero con inversione di configurazione
+B) portano sempre a un prodotto con ritenzione di configurazione
+C) producono un prodotto racemico
+D) mantengono completamente la configurazione iniziale
+
+Domanda 56: Dalla reazione tra acido propionico e idrossido di sodio si formano:
+A) Acido propionico e idrossido di sodio
+B) Propionato di sodio
+C) propionato di sodio e acqua
+D) Acetato di sodio e acqua
+
+Domanda 57: Dalle enammine per riduzione con NaBH4 si ottengono:
+A) amine primarie
+B) amine terziarie
+C) alcooli
+D) amine secondarie
+
+Domanda 58: Dalle immine per riduzione con H2/Ni si ottengono:
+A) aldeidi e chetoni
+B) alcoli
+C) ammine terziarie
+D) ammine primarie e secondarie
+
+Domanda 59: Data la reazione generica in soluzione A+B~ C+D, assumendo di essere  all’equilibrio, una diminuzione della concentrazione di A:
+A) sposta l’equilibrio verso una minore concentrazione di C e D
+B) aumenta la concentrazione di C e D
+C) sposta l’equilibrio verso destra
+D) non influenza la posizione dell'equilibrio
+
+Domanda 60: Date due soluzioni, la prima contenente 0,50 mol di NaCl in 250 ml di acqua e la  seconda contenente 0,20 mol di NaCl in 100 ml di acqua, si può affermare che:
+A) la prima soluzione è più concentrata della seconda
+B) la seconda soluzione è più concentrata della prima
+C) le due soluzioni hanno la stessa concentrazione
+D) la concentrazione della prima soluzione è il doppio di quella della seconda
+
+Domanda 61: Dato un generico atomo A, è corretto affermare che:
+A) L'atomo A non ha nucleo.
+B) L'atomo A è sempre neutro.
+C) A è più grande di A
+D) L'atomo A è indivisibile.
+
+Domanda 62: Disponete Fluoro (F), Iodio (I), Bromo (Br) e Cloro (Cl) in ordine di affinità elettronica  crescente:
+A) l/Br/F/Cl
+B) F/Cl/Br/I
+C) Cl/Br/F/l
+D) l/F/Br/Cl
+
+Domanda 63: Disponete i seguenti alcoli in ordine di punto di ebollizione crescente:
+A) etanolo, 1-butanolo, 1-propanolo, 1,4 butandiolo
+B) 1,4 butandiolo, 1-butanolo, 1-propanolo, etanolo
+C) etanolo, 1-propanolo, 1,4 butandiolo, 1-butanolo
+D) 1-butanolo, 1-propanolo, 1,4 butandiolo, etanolo: etanolo, 1-propanolo, 1-butanolo,  1,4 butandiolo
+
+Domanda 64: Disponete i seguenti alcoli in ordine di solubilità in acqua crescente (dal meno  solubile al più solubile):
+A) Glicole etilenico < etanolo < 2-butanolo < 1-esanolo
+B) 1-esanolo < etanolo < 2-butanolo < glicole etilenico
+C) 1- esanolo, 2-butanolo, 1,2-etandiolo (glicole etilenico), etanolo: 1-esanolo < 2-  butanolo < etanolo < glicole etilenico.
+D) Etanolo < 2-butanolo < 1-esanolo < glicole etilenico
+
+Domanda 65: Disporre in ordine di reattivià crescente nei confronti di un nucleofilo le seguenti  molecole formaldeide, acetaldeide e acetone:
+A) formaldeide > acetaldeide > acetone
+B) acetone > acetaldeide > formaldeide
+C) formaldeide > acetone > acetaldeide
+D) acetaldeide > formaldeide > acetone
+
+Domanda 66: Due aldosi che differiscono per la per la configurazione di un solo centro chirale  prendono il nome di:
+A) Anomeri
+B) Enantiomeri
+C) epimeri
+D) Diastereomeri
+
+Domanda 67: Due atomi di carbonio formano far loro un triplo legame solo se si trovano nello  stato di ibridazione:
+A) sp3
+B) sp
+C) sp2
+D) sp3d
+
+Domanda 68: Due elementi con elettronegatività molto diversa danno luogo a:
+A) Sia composti ionici che covalenti
+B) solo composti di tipo ionico
+C) Solo composti di tipo covalente apolare
+D) Solo composti di tipo covalente polare
+
+Domanda 69: Due elementi di uno stesso gruppo si comportano in maniera simile dal punto di  vista chimico in quanto hanno:
+A) lo stesso numero di elettroni nel guscio più esterno
+B) La stessa configurazione elettronica completa
+C) Lo stesso numero di protoni nel nucleo
+D) Lo stesso numero totale di elettroni
+
+Domanda 70: Due enantiomeri:
+A) hanno punti di ebollizione differenti
+B) non sono mai sovrapponibili
+C) sono diastereomeri
+D) sono sovrapponibili
+
+Domanda 71: Due isotopi di silicio che possiedono ugual numero atomico ma numero di massa  diverso, rispettivamente 29 e 30 rappresentano:
+A) due ioni dello stesso elemento
+B) due atomi con diverso numero di protoni
+C) due isotopi del medesimo elemento
+D) due elementi diversi
+
+Domanda 72: Due isotopi di uno stesso elemento si comportano chimicamente allo stesso modo,  in quanto hanno:
+A) lo stesso numero di neutroni
+B) lo stesso numero di elettroni nell’orbitale più esterno
+C) la stessa massa atomica
+D) la stessa stabilità nucleare
+
+Domanda 73: Due molecole con più di uno stereocentro che non sono immagini speculari sono:
+A) diastereoisomeri
+B) isomeri costituzionali
+C) enantiomeri
+D) isomeri conformazionali
+
+Domanda 74: durante la fusione di un corpo che si trova allo stato solido quale delle seguenti  grandezze del sistema non cambia?:
+A) La densità
+B) Il volume
+C) L'energia interna
+D) la temperatura
+
+Domanda 75: Durante la reazione di sintesi di NO (g), N2 + O2 → 2NO che è endotermica, quale si  verifica fra le seguenti situazioni?
+A) ΔH > 0 ΔS > 0
+B) ΔH < 0 ΔS < 0
+C) ΔH < 0 ΔS > 0
+D) ΔH > 0 ΔS < 0
+
+Domanda 76: È neutra una soluzione di:
+A) KCN
+B) NaNO3
+C) CH3COONa
+D) NH4Cl
+
+Domanda 77: Facendo reagire un acido carbossilico con ammoniaca si ottiene:
+A) un estere
+B) un anidride
+C) un sale
+D) un’ammide
+
+Domanda 78: Facendo reagire un alcol secondario in ambiente acido con acido cloridrico, quale  tra i seguenti prodotti NON si può formare a nessuna temperatura?:
+A) acido carbossilico
+B) Un alchene
+C) Un cloroalcano
+D) Un etere
+
+Domanda 79: Fra due atomi con una grande differenza di elettronegatività, si forma un:
+A) legame covalente
+B) legame metallico
+C) legame a idrogeno
+D) legame ionico
+
+Domanda 80: Fra il metano il propano il butano e l’esano avrà punto di ebollizione più alto:
+A) metano
+B) esano
+C) propano
+D) butano
+
+Domanda 81: Gli acidi aldonici:
+A) sono i prodotti di riduzione degli aldosi
+B) sono i prodotti di ossidazione degli aldosi
+C) sono i prodotti di ossidazione dei chetosi
+D) si formano per ossidazione del gruppo -CH2OH terminale degli aldosi
+
+Domanda 82: Gli acidi carbossilici a catena corta sono presenti in forma dimerica a causa dei  legami a:
+A) Legami covalenti
+B) Forze di van der Waals
+C) Legami ionici
+D) idrogeno
+
+Domanda 83: Gli acidi carbossilici R-COOH, interagiscono con l’acqua dando luogo a:
+A) R-COOH-+H3O+ (non esiste come risposta)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 84: Gli alcheni appartengono alla categoria:
+A) idrocarburi insaturi
+B) idrocarburi saturi
+C) idrocarburi aromatici
+D) alcani
+
+Domanda 85: Gli alchini, rispetto agli alcheni sono caratterizzati da:
+A) maggiore acidità e minore stabilità del carbocatione
+B) maggiore acidità e maggiore stabilità del carbocatione
+C) minore acidità e minore stabilità del carbocatione
+D) minore acidità e maggiore stabilità del carbocatione
+
+Domanda 86: Gli alcoli posseggono un carattere anfotero perche:
+A) posseggono un gruppo idrossilico
+B) sono acidi e basi deboli
+C) sono composti polari
+D) reagiscono solo con basi forti
+
+Domanda 87: Gli alcoli primari e secondari sono ossidati dal Reattivo di Jones rispettivamente in:
+A) aldeidi e aldeidi
+B) aldeidi e chetoni
+C) acidi e chetoni
+D) chetoni e acidi
+
+Domanda 88: Gli alcoli si sciolgono in acqua?:
+A) Sì, perché il gruppo ossidrilico crea legami a idrogeno con l'acqua
+B) dipende dalla lunghezza del gruppo alchilico dell’alcol stesso
+C) No, il gruppo alchilico li rende sempre insolubili
+D) No, perché sono composti organici e non polari
+
+Domanda 89: Gli aldosi di importanza biologica appartengono alla:
+A) serie alfa
+B) serie L
+C) serie D
+D) serie beta
+
+Domanda 90: Gli alogenuri alchilici sono impiegati nella reazione di deidroalogenazione per  ottenere:
+A) alcoli
+B) alchini
+C) alcani
+D) alcheni
+
+Domanda 91: Gli alogenuri alchilici sono ottenuti sostituendo un atomo di H con:
+A) gruppo idrossilico
+B) gruppo nitro
+C) alogeno
+D) gruppo amminico
+
+Domanda 92: Gli alogenuri vinilici e arilici nei confronti delle reazioni di sostituzione nucleofila  sono:
+A) poco reattivi
+B) molto reattivi per reazioni SN1
+C) molto reattivi
+D) più reattivi degli alogenuri alchilici
+
+Domanda 93: Gli amminoacidi (proteinogenici) che tutti gli organismi viventi usano per costruire  le proteine sono:
+A) 21
+B) 20
+C) 9
+D) 25
+
+Domanda 94: Gli amminoacidi posseggono tutti rispettivamente una configurazione relativa e  assoluta:
+A) L e S (tranne Cys)
+B) L e R
+C) D e R
+D) D e S
+
+Domanda 95: Gli atomi di carbonio dell’etano sono:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) entrambi primari
+
+Domanda 96: Gli atomi di carbonio negli alcani hanno sempre ibridazione:
+A) sp3
+B) sp
+C) sp2 o sp
+D) sp2
+
+Domanda 97: Gli atomi di tutti gli elementi di uno stesso gruppo hanno un ugual numero di:
+A) elettroni nel guscio più esterno
+B) numero di protoni
+C) numero totale di elettroni
+D) numero di gusci elettronici
+
+Domanda 98: Gli atomi nella molecola di HCl sono legati da:
+A) legame ionico
+B) legame covalente polare
+C) legame a idrogeno
+D) legame covalente apolare
+
+Domanda 99: Gli atomi presenti in un idrocarburo sono:
+A) Carbonio, Idrogeno e Ossigeno
+B) Solo Carbonio
+C) Solo Idrogeno
+D) sbagliata C2 H e O
+
+Domanda 100: Gli atomi sono costituiti da:
+A) protoni (carichi positivamente), neutroni (privi di carica) ed elettroni (carichi  negativamente)
+B) protoni (carichi negativamente), neutroni (carichi positivamente) ed elettroni (privi di carica)
+C) protoni, neutroni e fotoni
+D) protoni (carichi positivamente) ed elettroni (carichi negativamente)
+
+Domanda 101: Gli elementi azoto e fosforo:
+A) sono entrambi gas a temperatura ambiente e pressione standard
+B) appartengono allo stesso periodo della Tavola periodica
+C) appartengono al secondo gruppo della Tavola periodica
+D) appartengono al quinto gruppo della Tavola periodica
+
+Domanda 102: Gli elementi del gruppo 2 della tavola periodica (alcalino terrosi) hanno tutti  configurazione elettronica degli elettroni di valenza del tipo:
+A) ns2np6
+B) np2
+C) ns1
+D) ns2
+
+Domanda 103: Gli elementi del gruppo dei metalli alcalini (gruppo I) hanno tutti configurazione  elettronica esterna del tipo:
+A) ns2
+B) ns2 np1
+C) ns2 np6
+D) ns1
+
+Domanda 104: Gli elettroni in orbitali di tipo d,s,p hanno, rispettivamente, numero quantico  secondario:
+A) 0,1,2
+B) 2,0,1
+C) 2,1,0
+D) 1,0,2
+
+Domanda 105: Gli elettroni in orbitali di tipo f, p, s hanno, rispettivamente, numero quantico  secondario:
+A) 0,1,3
+B) 3,1,0
+C) 1,3,0
+D) 3,2,0
+
+Domanda 106: Gli enantiomeri e i diastereoisomeri posseggono proprietà chimico-fisiche:
+A) entrambi uguali
+B) enantiomeri diversi e diastereoisomeri uguali
+C) enantiomeri uguali e diastereoisomeri diversi
+D) entrambi diversi
+
+Domanda 107: Gli epossidi, rispetto agli eteri lineari, sono:
+A) Meno reattivi degli eteri.
+B) Ugualmente reattivi degli eteri.
+C) molto più reattivi degli eteri a causa della tensione associata all'anello triatomico
+D) Più stabili degli eteri lineari.
+
+Domanda 108: Gli esteri derivano dalla reazione tra:
+A) un aldeide e un alcol
+B) un ossiacido e un alcol
+C) un chetone e un alcol
+D) un'ammina e un ossiacido
+
+Domanda 109: Gli esteri si ottengono per reazione tra:
+A) un acido carbossilico e alcol ad alta temperatura
+B) alcol e chetone
+C) acido carbossilico e aldeide
+D) due molecole di alcol
+
+Domanda 110: Gli esteri:
+A) Possiedono un gruppo idrossilico (-OH) libero nella loro struttura
+B) Presentano un atomo di idrogeno legato direttamente al carbonio carbonilico
+C) Hanno il carbonio del gruppo carbonilico con caratteristiche elettrofile
+D) Sono formati dalla reazione tra un alcool e un'ammina
+
+Domanda 111: Gli eteri alifatici sono alcani in cui un atomo di idrogeno viene sostituito da un  gruppo:
+A) alchile
+B) alchilossi
+C) idrossile
+D) carbonile
+
+Domanda 112: Gli eteri simmetrici si ottengono per:
+A) per reazione di un alogenuro alchilico con un alcossido
+B) per addizione di un alcol a un alchene
+C) per disidratazione di alcoli con acidi inorganici
+D) per ossidazione di alcoli secondari
+
+Domanda 113: Gli idrocarburi sono composti organici costituiti da:
+A) Carbonio e azoto
+B) Carbonio e ossigeno
+C) Carbonio, idrogeno e ossigeno
+D) carbonio e idrogeno
+
+Domanda 114: Gli idrossidi sono composti:
+A) Binari formati da un metallo e ossigeno
+B) Ternari formati da un non-metallo, idrogeno e ossigeno
+C) ternari formati da atomi di un metallo, da idrogeno e da ossigeno
+D) Binari formati da idrogeno e un non metallo
+
+Domanda 115: Gli indicatori di pH sono:
+A) sostanze che assumono colori diversi a seconda del pH della soluzione
+B) Strumenti che misurano il potenziale elettrico di una soluzione
+C) Sostanze che aumentano il pH di una soluzione
+D) Sostanze che neutralizzano acidi e basi
+
+Domanda 116: Gli isomeri costituzionali differiscono per:
+A) le loro proprietà fisiche (es. punto di fusione)
+B) la loro formula molecolare
+C) la loro disposizione spaziale degli atomi
+D) l'ordine con cui sono legati i loro atomi e presentano pertanto diversa formula di  struttura
+
+Domanda 117: Gli isomeri costituzionali:
+A) differiscono per la rotazione attorno ai legami semplici.
+B) differiscono solo per la disposizione spaziale dei loro atomi.
+C) hanno formula molecolare diversa.
+D) differiscono per l'ordine con cui sono legati i loro atomi e presentano pertanto  diversa formula di struttura
+
+Domanda 118: Gli isomeri nei quali gli atomi sono legati nello stesso ordine, ma con differenti  allocazioni nello spazio prendono il nome di:
+A) Opzione B (Fallback)
+B) conformeri
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 119: Gli isotopi di un elemento hanno:
+A) Uguale numero atomico Z e uguale numero di massa A
+B) Diverso numero atomico Z
+C) Uguale numero di massa A e diverso numero atomico Z
+D) UGUALE NUMERO ATOMICO Z E DIVERSO NUMERO DI MASSA A
+
+Domanda 120: Gli isotopi:
+A) hanno uguale numero di neutroni ma diverso numero atomico Z
+B) hanno diverso numero atomico Z e diverso numero di massa atomica A
+C) hanno uguale numero atomico Z e diverso numero di massa atomica A
+D) hanno diverso numero atomico Z e uguale numero di massa atomica A
+
+Domanda 121: Gli oggetti che non sono sovrapponibili alla propria immagine speculare sono detti:
+A) chirali
+B) achirali
+C) simmetrici
+D) isomeri
+
+Domanda 122: Gli omega3 sono:
+A) acidi grassi saturi
+B) acidi grassi monoinsaturi
+C) vitamine liposolubili
+D) acidi grassi polinsaturi
+
+Domanda 123: Gli orbitali 2p dell’atomo di azoto:
+A) sono costituiti da 3 orbitali
+B) contengono esattamente 3 elettroni
+C) possono essere riempiti al massimo da 6 elettroni
+D) possono essere riempiti al massimo da 2 elettroni
+
+Domanda 124: Gli orbitali a ibridazione sp2 hanno geometria:
+A) lineare
+B) piramidale trigonale
+C) trigonale planare
+D) tetraedrica
+
+Domanda 125: Gli orbitali di tipo s hanno forma:
+A) bilobata
+B) planare
+C) sferica
+D) cubica
+
+Domanda 126: Gli ossiacidi sono composti chimici che:
+A) Sono composti ternari costituiti da un metallo, ossigeno e idrogeno
+B) Sono ossidi acidi che non contengono idrogeno
+C) Sono composti binari costituiti da idrogeno e un non metallo
+D) sono composti ternari costituiti da un non metallo, ossigeno e idrogeno
+
+Domanda 127: Gli stereoisomeri di un monosaccaride che differiscono per la posizione di del  gruppo -OH al carbonio emiacetalico sono degli:
+A) diastereoisomeri
+B) enantiomeri
+C) epimeri
+D) anomeri
+
+Domanda 128: Grazie al meccanismo di interconversione di due conformazioni a sedia del  cicloesano:
+A) l'orientamento relativo (cis o trans) tra i sostituenti si inverte
+B) i sostituenti assiali diventano equatoriali e viceversa
+C) la molecola assume temporaneamente una conformazione planare
+D) si verifica la rottura e successiva riforma dei legami C-C
+
+Domanda 129: I carboidrati che reagiscono positivamente con i reattivi di Tollens, Fehling e  Benedict sono definiti:
+A) Polisaccaridi
+B) riducenti
+C) Ossidanti
+D) Semplici
+
+Domanda 130: I carboidrati chimicamente sono:
+A) poilidrossialdeidi o poliidrossichetoni
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 131: i catalizzatori sono sostanze che:
+A) Aumentano l'energia di attivazione della reazione
+B) Vengono consumati durante la reazione
+C) innescano le reazioni facendo diminuire il valore dell’energia di attivazione
+D) Spostano l'equilibrio chimico della reazione
+
+Domanda 132: I catalizzatori sono:
+A) sostanze che aumentano la velocità delle reazioni chimiche senza essere  consumate
+B) sostanze che diminuiscono la velocità delle reazioni chimiche
+C) sostanze che vengono consumate durante le reazioni chimiche
+D) sostanze che spostano l'equilibrio delle reazioni chimiche
+
+Domanda 133: I chetoni sono ossidati con i perossiacidi per ottenere:
+A) esteri
+B) ammidi
+C) acidi carbossilici
+D) aldeidi
+
+Domanda 134: i composti CH3—CH2—O—CH3—CO—CH3 sono, nell’ordine:
+A) un etere e un chetone
+B) un alcool e un chetone
+C) un chetone e un etere
+D) un etere e un'aldeide
+
+Domanda 135: I composti che si ottengono per riduzione con NaBH4 dei monosaccaridi prendono  il nome di:
+A) alditoli
+B) Acidi aldarici
+C) Glicosidi
+D) Acidi aldonici
+
+Domanda 136: I composti chimici che si ottengono dalla reazione di un metallo con l'ossigeno si  chiamano:
+A) Idrossidi
+B) ossidi
+C) Perossidi
+D) Sali
+
+Domanda 137: I composti contenenti legami ionici sono solitamente:
+A) liquidi
+B) gassosi
+C) solidi
+D) conduttori di elettricità
+
+Domanda 138: I criteri di Huckel perché un composto sia aromatico prevedono che sia:
+A) ciclico, planare e 4n + 2
+B) ciclico, planare e 4n
+C) aciclico, planare e 4n + 2
+D) ciclico, non-planare e 4n + 2
+
+Domanda 139: I derivati degli acidi carbossilici con i nucleofili danno luogo a reazioni di :
+A) Eliminazione
+B) Sostituzione elettrofila
+C) sostituzione nucleofila acilica
+D) Addizione nucleofila
+
+Domanda 140: I fenoli sono:
+A) basi forti
+B) macromolecole biologiche
+C) forti acidi
+D) potenti antiossidanti
+
+Domanda 141: I gas del gruppo 18 della tavola periodica sono detti nobili o inerti in quanto:
+A) Occupano l'ultima colonna della tavola periodica
+B) Sono i soli elementi che si presentano come gas monoatomici
+C) possiedono tutti gli orbitali saturi e ciò li rende elementi chimicamente stabili
+D) Non reagiscono mai con nessun altro elemento chimico
+
+Domanda 142: I glicosidi sono:
+A) composti acetalici formati da un monosaccaride (in forma emiacetalica) e un  gruppo alcolico di  un’altra molecola
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 143: I legami a idrogeno si formano tra:
+A) Aldeidi
+B) Alcani saturi
+C) Eteri alifatici
+D) acidi organici
+
+Domanda 144: I non metalli:
+A) sono malleabili e duttili
+B) perdono facilmente elettroni
+C) sono buoni conduttori di elettricità
+D) acquistano facilmente elettroni
+
+Domanda 145: I numeri di ossidazione dello zolfo nei composti acido solfidrico, acido solforico e  acido solforoso sono nell’ordine:
+A) -2+6+6
+B) -2+4+6
+C) +2+6+4
+D) -2+6+4
+
+Domanda 146: I numeri quantici:
+A) descrivono la traiettoria dell'elettrone
+B) determinano la velocità dell'elettrone
+C) caratterizzano un dato orbitale
+D) indicano la posizione esatta dell'elettrone
+
+Domanda 147: I parametri che caratterizzano un legame covalente sono:
+A) Energia e angolo
+B) energia e lunghezza
+C) Polarità e ibridazione
+D) Elettronegatività e tipo
+
+Domanda 148: I potenziali standard si misurano in:
+A) A
+B) V
+C) Ω
+D) J
+
+Domanda 149: I prodotti sono termodinamicamente più stabili dei reagenti in una trasformazione:
+A) endoergonica
+B) all'equilibrio
+C) spontanea
+D) reversibile
+
+Domanda 150: I raggi atomici degli atomi:
+A) Diminuiscono lungo il gruppo e aumentano lungo il periodo
+B) Aumentano lungo il gruppo e aumentano lungo il periodo
+C) aumentano lungo il gruppo e diminuiscono lungo il periodo
+D) Diminuiscono lungo il gruppo e diminuiscono lungo il periodo
+
+Domanda 151: I reattivi di Grignard si addizionano ad aldeidi e chetoni per ottenere  rispettivamente:
+A) alcoli primari e terziari
+B) alcoli terziari e secondari
+C) alcoli primari e secondari
+D) alcoli secondari e terziari
+
+Domanda 152: I sali che producono soluzioni basiche sono quelli formati:
+A) dalla reazione di una base debole con un acido forte
+B) dalla reazione di una base forte con un acido forte
+C) dalla reazione di una base forte con un acido debole
+D) dalla reazione di una base debole con un acido debole
+
+Domanda 153: I sali che producono soluzioni neutre sono:
+A) sali in cui l'anione corrisponde alla base coniugata di un acido forte e il catione  all'acido coniugato di una base forte
+B) sali derivati da un acido debole e una base forte
+C) sali in cui l'anione è la base coniugata di un acido debole
+D) sali derivati da un acido forte e una base debole
+
+Domanda 154: I solidi a reticolo ionico:
+A) consistono di atomi neutri legati da forze intermolecolari deboli
+B) sono costituiti da atomi disposti in un reticolo tridimensionale tenuto da legami metallici
+C) consistono di anioni e cationi tenuti in una disposizione regolare ed ordinata da  forti legami ionici
+D) sono formati da molecole discrete tenute insieme da legami covalenti
+
+Domanda 155: I solidi cristallini sono quelli in cui:
+A) gli ioni o le molecole sono disposte secondo un ordine chiamato reticolo cristallino
+B) sono privi di una struttura interna regolare
+C) le particelle sono disposte in modo casuale
+D) fondono gradualmente su un intervallo di temperature
+
+Domanda 156: I trigliceridi sono:
+A) Esteri di amminoacidi con il glicerolo
+B) esteri di acidi grassi a lunga catena con il glicerolo
+C) Componenti principali delle membrane cellulari
+D) Molecole steroidee con funzioni ormonali
+
+Domanda 157: Identifica il nome corretto per il composto Fe (ClO4)3:
+A) perclorato di ferro (lll)
+B) perclorato di ferro (ll)
+C) clorato di ferro (ll)
+D) clorato di ferro (lll)
+
+Domanda 158: Identificare il numero di ossidazione dell’ossigeno nell’acqua ossigenata:
+A) +2
+B) 0
+C) -1
+D) -2
+
+Domanda 159: Identificare il tipo di legame presente tra il fosforo e l’idrogeno…:
+A) Legame metallico
+B) Legame a idrogeno
+C) Legame ionico
+D) legame covalente
+
+Domanda 160: Identificare quale fra i seguenti composti è privo di legami a idrogeno  intermolecolari:
+A) benzene, C6H6
+B) etanolo, CH3CH2OH
+C) ammoniaca, NH3
+D) acqua, H2O
+
+Domanda 161: II prodotto di ossidazione di un alcol secondario ?:
+A) Nessuna reazione
+B) Un acido carbossilico
+C) un chetone
+D) Un'aldeide
+
+Domanda 162: Il 2-butanolo rispetto all'acido acetico è:
+A) un acido più forte
+B) un acido di forza simile
+C) un acido più debole
+D) ha un pKa inferiore
+
+Domanda 163: Il 2-propanolo è un:
+A) ALCOOL SECONDARIO
+B) ALCOOL TERZIARIO
+C) CHETONE
+D) ALCOOL PRIMARIO
+
+Domanda 164: Il 2-propanolo rispetto all’acido acetico è:
+A) un acido più debole
+B) con un pKa minore
+C) un acido più forte
+D) con punto di ebollizione maggiore
+
+Domanda 165: Il b-carotene e il licopene appartengono ai:
+A) Idrocarburi saturi
+B) dieni coniugati
+C) Alcoli
+D) Acidi grassi
+
+Domanda 166: Il berillio ha 2 elettroni di valenza, l’azoto 3, il silicio 4, il fosforo 5, lo zolfo 6. Quale  di questi elementi ha proprietà chimiche più simili al carbonio?
+A) silicio
+B) fosforo
+C) zolfo
+D) azoto
+
+Domanda 167: Il blocco d della tavola periodica comprende:
+A) Metalli di transizione
+B) Metalli alcalini
+C) Gas nobili
+D) Lantanidi e attinidi
+
+Domanda 168: Il blocco s della tavola periodica comprende:
+A) metalli alcalini e alcalino terrosi
+B) Gas nobili
+C) Lantanidi e attinidi
+D) Metalli di transizione
+
+Domanda 169: Il bronzo è:
+A) formato da rame e zinco
+B) una lega di ferro e carbonio
+C) formato da alluminio e rame
+D) formato da rame e stagno
+
+Domanda 170: Il carattere s degli orbitali ibridi sp è pari al:
+A) 50%
+B) 25%
+C) 75%
+D) 33.3%
+
+Domanda 171: Il carbocatione allilico è stabilizzato per:
+A) Effetto induttivo
+B) Struttura planare
+C) risonanza
+D) Iperconiugazione
+
+Domanda 172: Il carbonio è contenuto nel gruppo:
+A) III
+B) VI
+C) IV
+D) V
+
+Domanda 173: Il carbonio può formare al massimo:
+A) 6 legami covalenti
+B) 2 legami covalenti
+C) 4 legami covalenti
+D) 3 legami covalenti
+
+Domanda 174: Il catodo è l'elettrodo dove:
+A) ha sempre carica positiva
+B) gli elettroni lasciano l'elettrodo
+C) avviene la semireazione di ossidazione
+D) avviene la semireazione di riduzione
+
+Domanda 175: Il cesio è un elemento poco elettronegativo perché:
+A) Ha un'elevata affinità elettronica.
+B) Il suo nucleo attrae fortemente gli elettroni di legame.
+C) Cede elettroni facilmente.
+D) ha poca tendenza ad attrarre gli elettroni dei legami in cui è coinvolto
+
+Domanda 176: Il ciclopentano preferisce una conformazione trimensionale:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) a busta, con angoli di legame di 105°
+D) Opzione A (Fallback)
+
+Domanda 177: Il composto A ed il composto B reagiscono spontaneamente tra loro, e l’entalpia di  reazione è pari a +200 kJ/mole. Se mescolo A e B in un contenitore osservo che:
+A) Si sviluppa calore
+B) La reazione non avviene
+C) La temperatura aumenta
+D) La variazione di T dipende dalla temperatura ambientale
+
+Domanda 178: Il composto C si trova ad un livello energetico (misurato in termini di entalpia) di  100 kJ/mole maggiore del composto D. Quindi la reazione che trasforma C in D è:
+A) endotermica
+B) esotermica e non spontanea
+C) esotermica e spontanea
+D) esotermica, ma non necessariamente spontanea
+
+Domanda 179: Il composto CH3-CH2-N(CH3)2 rappresenta:
+A) Un’ammina secondaria
+B) Un’ammina primaria
+C) Un sale di ammonio quaternario
+D) Un’ammina terziaria
+
+Domanda 180: Il composto con formula C2H6:
+A) è un idrocarburo e si chiama etano
+B) è un idrocarburo chiamato propano
+C) è un idrocarburo chiamato metano
+D) è un alcol
+
+Domanda 181: Il composto di formula CH3-CH2-OH si chiama:
+A) Dimetil etere
+B) alcol etilico o etanolo
+C) Metanolo
+D) Propanolo
+
+Domanda 182: Il concetto di risonanza si può spiegare come:
+A) un equilibrio dinamico tra diverse strutture di Lewis che si interconvertono rapidamente
+B) una delocalizzazione di elettroni che coinvolge principalmente i legami sigma
+C) un fenomeno in cui gli atomi cambiano la loro posizione per stabilizzare la molecola
+D) una combinazione di strutture di Lewis nelle quali gli atomi sono ugualmente  collocati, mentre la disposizione degli elettroni è differente
+
+Domanda 183: Il decorso della reazione di apertura degli epossidi con catalisi acida avviene  secondo: Markovnikoff:
+A) Anti-Markovnikoff
+B) Markovnikoff
+C) Zaitsev
+D) Hofmann
+
+Domanda 184: Il decorso stereochimico delle SN2 su substrati chirali avviene con:
+A) Ritenzione di configurazione
+B) Inversione parziale
+C) Racemizzazione
+D) inversione di configurazione
+
+Domanda 185: Il decorso stereochimico per l’attacco di una specie nucleofila allo ione bromonio è  sempre:
+A) racemico
+B) syn
+C) anti
+D) ritenzione
+
+Domanda 186: Il deuterio rispetto all’idrogeno possiede:
+A) UN ELETTRONE IN PIU'
+B) MASSA DOPPIA
+C) UN PROTONE IN PIU'
+D) UN NEUTRONE IN PIU'
+
+Domanda 187: Il diolo derivato dall’etano è:
+A) glicerolo
+B) glicole etilenico
+C) glicole propilenico
+D) etanolo
+
+Domanda 188: Il diossido di carbonio, a temperatura e pressione ordinarie, è:
+A) plasma
+B) solido
+C) liquido
+D) aeriforme
+
+Domanda 189: Il fenomeno della isomeria geometrica si ritrova in tutte le classi di composti che  contengono:
+A) Un legame triplo
+B) Un anello
+C) un doppio legame
+D) Atomi di carbonio asimmetrici
+
+Domanda 190: nome:
+A) Rotazione specifica
+B) mutarotazione
+C) Anomerizzazione
+D) Epimerizzazione
+
+Domanda 191: Il fluoro F ha configurazione elettronica di stato fondamentale 1s22s22p5, ciò  significa che il numero di elettroni in suo possesso è:
+A) 7
+B) 8
+C) 9
+D) 5
+
+Domanda 192: Il fruttosio (C6H12O6) è:
+A) un disaccaride
+B) un poliidrossichetone
+C) un poliidrossialdeide
+D) un aldopentoso
+
+Domanda 193: Il fruttosio è:
+A) un aldoesoso
+B) un chetoesoso
+C) un disaccaride
+D) un chetopentoso
+
+Domanda 194: Il glutine è una proteina ricca di:
+A) cisteina, prolina e glutammina
+B) lisina, leucina e valina
+C) triptofano, fenilalanina e tirosina
+D) glicina, alanina e serina
+
+Domanda 195: Il grado di dissociazione ' ' è:
+A) Un indicatore della forza intrinseca di un acido forte
+B) la percentuale di acido che si dissocia in soluzione ad una data concentrazione
+C) La concentrazione degli ioni idronio (H3O+) presenti in soluzione
+D) La velocità con cui l'acido si scioglie nel solvente
+
+Domanda 196: 𝜶 Il gruppo aldeidico e chetonico degli zuccheri reagisce facilmente negli alimenti:
+A) con altri zuccheri
+B) con il gruppo carbossilico delle proteine
+C) con l'ossigeno dell'aria
+D) con il gruppo amminico delle proteine
+
+Domanda 197: Il gruppo CH₃-CH₂-O è detto:
+A) etossi
+B) Propilossi
+C) Metossi
+D) Etile
+
+Domanda 198: il gruppo -COOH è caratteristico:
+A) degli acidi carbossilici
+B) degli aldeidi
+C) dei chetoni
+D) degli alcoli
+
+Domanda 199: il gruppo funzionale —CH2OH si chiama:
+A) Alcolico secondario
+B) alcolico primario
+C) Alcolico terziario
+D) Gruppo aldeidico
+
+Domanda 200: Il Kps della reazione PbI2(s) ↔ Pb2+(aq) + 2I-(aq) è:
+A) 2[Pb2+][I-]
+B) [Pb2+][2I-]
+C) [Pb2+][I-]
+D) [Pb2+][I-]2
+
+Domanda 201: Il lattosio è:
+A) un polisaccaride
+B) un disaccaride
+C) un lipide
+D) un monosaccaride
+
+Domanda 202: Il legame ad idrogeno è:
+A) l'interazione dipolo-dipolo che si instaura tra molecole che contengono un atomo di  idrogeno legato ad un atomo piccolo e molto elettronegativo
+B) Una forza attrattiva che si instaura tra molecole apolari che contengono atomi di idrogeno.
+C) Un legame covalente che si forma tra un atomo di idrogeno e un atomo elettronegativo.
+D) Un'interazione elettrostatica tra ioni idrogeno (H+) e anioni.
+
+Domanda 203: Il legame ad idrogeno:
+A) Sono forze intramolecolari
+B) Sono un tipo di forze di Van der Waals
+C) aumenta la temperatura di ebollizione
+D) Diminuiscono la temperatura di ebollizione
+
+Domanda 204: Il legame che si forma tra il carbonio anomerico di uno zucchero e un gruppo -OR  prende il nome di:
+A) Legame peptidico
+B) legame glicosidico
+C) Legame estere
+D) Legame etere
+
+Domanda 205: Il legame covalente è polarizzato solo quando:
+A) si stabilisce tra atomi con un’elevata differenza di elletronegatività
+B) vengono condivisi esattamente due elettroni
+C) si stabilisce tra ioni con cariche opposte
+D) si stabilisce tra atomi dello stesso elemento
+
+Domanda 206: Il legame covalente puro e polare è distinto:
+A) dalla dimensione degli atomi coinvolti
+B) dal numero di elettroni condivisi
+C) dalla presenza di coppie solitarie
+D) dalla differenza di elettronegatività tra gli elementi coinvolti+A179
+
+Domanda 207: il legame covalente si forma quando si verifica la condivisione di:
+A) almeno due elettroni fra due atomi
+B) Attrazione tra ioni con cariche opposte
+C) Trasferimento di elettroni tra atomi
+D) Condivisione di un solo elettrone
+
+Domanda 208: Il legame generato dalla condivisione di una o più coppie di elettroni è detto:
+A) covalente
+B) ionico
+C) metallico
+D) a idrogeno
+
+Domanda 209: Il legame glicosidico negli zuccheri lega:
+A) un ossigeno nucleofilo alla funzione emiacetalica
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 210: Il legame più polare tra i seguenti è:
+A) il legame N-H
+B) il legame O-H
+C) il legame Cl-H
+D) il legame F-H
+
+Domanda 211: Il maltosio è:
+A) un disaccaride costituito da due monomeri di glucosio
+B) È un disaccaride costituito da glucosio e fruttosio
+C) È un monosaccaride
+D) È un polisaccaride
+
+Domanda 212: Il NaBH4 è in grado di ridurre le aldeidi, i chetoni e i cloruri acilici ad:
+A) alcoli secondari e terziari
+B) Acidi carbossilici
+C) Esteri
+D) Alcani
+
+Domanda 213: Il neon possiede tre isotopi con massa atomica relativa di 22,0 u, 21,0 u e 20,0 u la  cui frequenza relativa è 11,2 : 0,2 :
+A) 110
+B) 88.6
+C) 114.
+D) 120
+
+Domanda 214: il nome corretto di MnCl 2 è:
+A) cloruro di manganese
+B) cloruro di ferro
+C) bromuro di manganese
+D) cloruro di manganese(III)
+
+Domanda 215: Il nome del composto NaClO3 è:
+A) perclorato di sodio
+B) ipoclorito di sodio
+C) clorito di sodio
+D) clorato di sodio
+
+Domanda 216: Il nome del composto NH4Mn04 è:
+A) manganite di ammonio
+B) permanganato di ammonio
+C) manganato di ammonio
+D) nitrato di manganese
+
+Domanda 217: Il nome dell'acido bicarbossilico HOOC(CH2)2COOH è:
+A) acido succinico
+B) acido glutarico
+C) acido malonico
+D) acido ossalico
+
+Domanda 218: Il nome di un sostituente alchilico viene ricavato da quello dell'alcano  corrispondente cambiando la desinenza:
+A) da -ano in -olo
+B) da -ano in -ino
+C) da -ano in -ile
+D) da -ano in -ene
+
+Domanda 219: Il nome IUPAC degli alcani lineari consta del prefisso:
+A) -ino
+B) -ano
+C) -olo
+D) -ene
+
+Domanda 220: Il nome IUPAC dell'acroleina è:
+A) Propenolo
+B) propenale
+C) Acrilaldeide
+D) Propanale
+
+Domanda 221: Il nome IUPAC di N2O3 è:
+A) Opzione B (Fallback)
+B) triossido di diazoto
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 222: Il nome tradizionale del composto H2S è:
+A) Acido solforico
+B) Solfuro di idrogeno
+C) acido solfidrico
+D) Acido solforoso
+
+Domanda 223: Il nucleofilo e l'elettrofilo sono rispettivamente un atomo o molecola:
+A) elettronricca ed elettronpovera
+B) elettronpovera ed elettronricca
+C) carica positivamente e carica negativamente
+D) acida e basica
+
+Domanda 224: Il nucleofilo è:
+A) Una specie chimica dotata di carica positiva o parziale positiva.
+B) Atomo o molecola povera di elettroni in grado di accettare una coppia elettronica.
+C) Una specie chimica in grado di donare un protone (H+).
+D) atomo o molecola elettronricca in grado di donare una coppia di elettroni per  formare un legame covalente. I nucleofili possono essere neutri o possedere carica  negativa
+
+Domanda 225: Il numero di Avogadro è pari a:
+A) 6.022 x 10^24
+B) 6.022 x 10^22
+C) 1.0 x 10^23
+D) 6.022 x 1023
+
+Domanda 226: il numero di elettroni che possono configurarsi negli orbitali s di un atomo è:
+A) 8
+B) 1
+C) 6
+D) 2
+
+Domanda 227: Il numero di massa di un atomo formato da 11 protoni 11 elettroni e 12 neutroni è:
+A) 34
+B) 23
+C) 11
+D) 22
+
+Domanda 228: il numero di massa è uguale: alla somma delle masse di protoni e neutroni esterna  è rappresentabile con la sigla:
+A) n^2
+B) numero atomico
+C) ns^2
+D) np^6
+
+Domanda 229: Il numero di ossidazione del Cloro in NaCl è:
+A) -1
+B) +7
+C) 0
+D) +1
+
+Domanda 230: Il numero di ossidazione del Fluoro in F2:
+A) 2
+B) 0
+C) -1
+D) +1
+
+Domanda 231: Il numero di ossidazione di una sostanza elementare è:
+A) +1
+B) -1
+C) Variabile a seconda dell'elemento
+D) 0
+
+Domanda 232: Il numero massimo di elettroni che possono trovarsi in un orbitale di tipo s è:
+A) 1
+B) 2
+C) 3
+D) 6
+
+Domanda 233: il numero massimo di elettroni che può essere contenuto in totale nei primi 3 livelli  elettronici è:
+A) 20
+B) 18
+C) 28
+D) 10
+
+Domanda 234: Il numero quantico secondario (l) può assumere valori:
+A) Solo i valori 0, 1, 2
+B) Interi da 1 a n-1
+C) Interi da 0 a n
+D) interi da 0 a n-1
+
+Domanda 235: Il numero quantico secondario di un elettrone contenuto in un orbitale con n uguale  a 3 è:
+A) può assumere tutti valori interi compresi tra 1 e 2
+B) può assumere tutti valori interi compresi tra 0 e 3
+C) può assumere tutti valori interi compresi tra 0 e 2
+D) è sempre uguale a 2
+
+Domanda 236: Il parametro per discriminare il tipo di legame che si instaura tra gli atomi è:
+A) Il numero di elettroni di valenza
+B) la differenza di elettronegatività
+C) L'energia di ionizzazione
+D) Il raggio atomico
+
+Domanda 237: Il passaggio da gas a liquido è detto:
+A) solidificazione
+B) fusione
+C) evaporazione
+D) condensazione
+
+Domanda 238: Il peso molecolare dell’acido fosforico è 98 u.m.a. Quanti g pesano 0,05 moli del  composto ?
+A) 98 g
+B) 490 g
+C) 49 g
+D) 4.9
+
+Domanda 239: Il peso molecolare rappresenta la massa:
+A) relativa rispetto all'atomo di Carbonio-12
+B) di una molecola in unità di massa atomica
+C) in grammi di una mole di molecola
+D) di un singolo atomo della molecola
+
+Domanda 240: Il petrolio è:
+A) Un elemento chimico
+B) Un minerale solido
+C) una miscela di idrocarburi
+D) Gas naturale liquefatto
+
+Domanda 241: Il pH del succo gastrico umano ha un valore pari circa a 2. Se assumiamo che  questo pH sia esclusivamente dovuto all’acido cloridrico, che concentrazione ha  quest’acido nel nostro stomaco per dare questo valore di Ph?
+A) 0.001 M
+B) 0.02 M
+C) 0.01 M
+D) 0.1 M
+
+Domanda 242: Il pH di una soluzione 0,0001 M di NaOH è:
+A) 10
+B) 4
+C) 9
+D) 3
+
+Domanda 243: Il ph di una soluzione contenente 0,0001 mol di ioni idrossido è:
+A) 18
+B) 4
+C) 10
+D) 9
+
+Domanda 244: Il pH di una soluzione di idrossido di potassio 0,100 M a 25°C è:
+A) 13.0
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 245: Il pH di una soluzione di idrossido di potassio 0,100 M è:
+A) 12.0
+B) 13,0
+C) 1.0
+D) 7.0
+
+Domanda 246: Il ph di una soluzione preparata mescolando 500 ml di una soluzione 2.02 di M di  HCL con 500 ml di una soluzione 2.00 M di NaOH sarà:
+A) 1
+B) 2
+C) 7
+D) 12
+
+Domanda 247: Il pH di una soluzione si definisce come:
+A) il logaritmo in base 10, cambiato di segno, della concentrazione dello ione ossonio
+B) il logaritmo in base 10 della concentrazione dello ione ossonio
+C) la concentrazione dello ione ossonio
+D) il logaritmo in base 10, cambiato di segno, della concentrazione dello ione idrossido
+
+Domanda 248: il pH di una soluzione tampone di un acido debole corrisponde al pK dell’acido  quando:
+A) Il pH della soluzione è 7
+B) la concentrazione dell’acido debole è uguale alla concentrazione del suo sale
+C) La concentrazione del sale è il doppio di quella dell'acido debole
+D) La concentrazione dell'acido debole è 0.1 M
+
+Domanda 249: Il pKa degli alchini è:
+A) 16
+B) 10
+C) 25
+D) 30
+
+Domanda 250: Il pKa degli alcoli vale circa:
+A) 16-18
+B) maggiore di 20
+C) circa 7
+D) circa 10
+
+Domanda 251: Il primo principio della termodinamica afferma che:
+A) l’energia interna di un sistema isolato resta costante
+B) L'entropia di un sistema isolato non può diminuire.
+C) Il calore fluisce spontaneamente solo da corpi più caldi a corpi più freddi.
+D) Il calore scambiato da un sistema è sempre uguale al lavoro compiuto su o dal sistema.
+
+Domanda 252: Il principio di Le Châtelier afferma che:
+A) Quando si perturba un sistema all'equilibrio, esso si sposta nella direzione che incrementa l'effetto della perturbazione.
+B) Un sistema all'equilibrio, una volta perturbato, raggiunge immediatamente un nuovo stato di equilibrio senza alcun cambiamento intermedio.
+C) Il principio si applica esclusivamente alle variazioni di temperatura, non di concentrazione o pressione.
+D) quando si perturba con una sollecitazione esterna un sistema all'equilibrio, il  sistema stesso reagisce in modo da annullare, per quanto possibile, gli effetti di  tale sollecitazione
+
+Domanda 253: Il prodotto di ossidazione di un alcol secondario è
+A) un acido carbossilico
+B) un chetone
+C) un estere
+D) un'aldeide
+
+Domanda 254: Il prodotto ionico dell'acqua Kw è:
+A) costante e pari a 1,0 × 10⁻¹⁰ a 25 °C
+B) costante e pari a 1,0䞆-14 a 25 °C
+C) costante e pari a 1,0 × 10⁻⁷ a 25 °C
+D) variabile e dipende dalla pressione
+
+Domanda 255: Il punto di ebollizione dell’acqua alla pressione di 0.8 atmosfere:
+A) è esattamente 100°C
+B) è circa 105°C
+C) è maggiore di 100°C
+D) è minore di 100°C
+
+Domanda 256: Il punto di ebollizione di un composto molecolare da indicazioni:
+A) (sulla presenza di atomi diidrogeno nella molecola E sull’ibridazione degli atomi  della molecola SONO SBAGLIATE)
+B) sulla sua reattività chimica specifica
+C) sulla sua densità allo stato solido
+D) sulla forza dei legami al suo interno
+
+Domanda 257: Il punto di ebollizione è la temperatura alla quale:
+A) la pressione di vapore eguaglia la pressione esistente sulla superficie
+B) la pressione di vapore supera la pressione esterna
+C) il liquido passa allo stato gassoso
+D) l'energia cinetica media delle molecole è massima
+
+Domanda 258: Il punto isoelettrico (pI) negli amminoacidi è
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) valore di pH a cui l’amminoacido, posto in un campo elettrico, non migra nè  all'anodo né al catodo
+
+Domanda 259: Il punto isoelettrico di un amminoacido è 9.70. qual è la carica della molecola a pH  12?:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) negativa
+D) Opzione A (Fallback)
+
+Domanda 260: Il raggio atomico degli elementi:
+A) diminuisce lungo un periodo
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 261: Il raggio dello ione Fe(II) rispetto a quello delloi one Fe(III) è:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) maggiore
+
+Domanda 262: Il saccarosio è uno zucchero riducente?:
+A) Opzione C (Fallback)
+B) No
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 263: Il sale con formula CaCl2 è:
+A) cloruro di calcio
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 264: Il sistema acqua-ghiaccio è:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) chimicamente omogeneo e fisicamente eterogeneo
+D) Opzione C (Fallback)
+
+Domanda 265: il sodio (num di massa 23, numero atomico 11) ha:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) 11 protoni e 12 neutroni
+
+Domanda 266: Il sodio ha un raggio atomico superiore al litio perché Na ha:
+A) Opzione A (Fallback)
+B) livelli energetici degli elettroni più occupati
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 267: Il sorbitolo è impiegato come dolcificante nella:
+A) frutta candita
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 268: Il suffisso da utilizzare nella nomenclatura IUPAC per gli alcheni e alchini sono:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) -ene e -ino
+D) Opzione C (Fallback)
+
+Domanda 269: Il tempo di dimezzamento è:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) tempo necessario affinché la concentrazione del componente considerato  diminuisca della metà
+
+Domanda 270: Il termine esoso significa:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) uno zucchero la cui catena è formata da 6 atomi di C
+
+Domanda 271: Il Tetraidrofurano è:
+A) un etere ciclico pentatomico
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 272: Il triplo legame è costituito dai seguenti tipi di legame:
+A) 1 2
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 273: Il valore di pH a cui l'amminoacido, posto in un campo elettrico, non migra prende il  nome di:
+A) Opzione C (Fallback)
+B) punto isoelettricop (pI)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 274: Il volume molare di un gas a T=25°C e P=1 atm:
+A) Opzione B (Fallback)
+B) è 22,4 L per qualunque gas perfetto
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 275: Il volume molare di un gas in condizioni normali (P =1 atm, T = 298 K) è pari a:
+A) Opzione C (Fallback)
+B) 22,4 L
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 276: In 100 ml di una soluzione 2M sono presenti 6 grammi di soluto. Qual è il peso  molecolare del soluto in u.m.a.?
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) 30
+
+Domanda 277: In 151,5 g di H2SO4 il numero di moli è pari a (H m = 1.0078 Da; S m = 32,065 Da; O  m = 15.9994 Da):
+A) 1.5
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 278: In che stato fisico si trovano gli alcani che hanno catene lineari che vanno da 5 a 17  atomi di carbonio:
+A) liquido
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 279: in quale dei seguenti composti il carbonio presenta numero di ossidazione più  basso:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) C2H4
+
+Domanda 280: In quale dei seguenti composti, se presi puri allo stato liquido, NON troviamo legami  a idrogeno tra le molecole?
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Metano CH4
+
+Domanda 281: In quale molecola l’atomo di cloro porta una parziale carica positiva:
+A) Cl-F ? (Cl-Br E’ SBAGLIATA)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 282: In quale variazione dello stato di un sistema gassoso l’entropia diminuisce?
+A) Opzione A (Fallback)
+B) Il raffreddamento
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 283: In quali molecole si trova il legame peptidico?:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) nelle proteine
+D) Opzione C (Fallback)
+
+Domanda 284: In relazione ai problemi legati all’uso dei combustibili nella vita quotidiana, indica  quale delle seguenti affermazioni NON è CORRETTA:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) il problema dell’effetto serra potrebbe essere contenuto se tutti utilizzassero come  combustibile solo legna
+
+Domanda 285: in riferimento al gruppo carbonilico, quale sarà il sito preferenziale per un attacco  elettrofilo?:
+A) Opzione A (Fallback)
+B) l’atomo di ossigeno
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 286: In seguito all’aumento di temperatura la velocità di una reazione chimica:
+A) aumenta
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 287: In solventi in grado di dare legame idrogeno i gruppi carbonilici di aldeidi e chetoni  si comportano:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) da accettori di legame idrogeno
+D) Opzione C (Fallback)
+
+Domanda 288: In termodinamica il calore è:
+A) un modo per scambiare energia fra il sistema e l’ambiente esterno
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 289: In un atomo di carbonio ibridato sp2:
+A) Opzione A (Fallback)
+B) vi sono tre orbitali sp2 disposti a 120° l’uno dall’altro
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 290: In un atomo due elettroni non possono averela stessa serie di numeri quantici,  pertanto inuno stesso orbitale atomico possono staresolo 2 elettroni con spin  opposti. Tale enunciato è noto come:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) principio di esclusione di Pauli
+D) Opzione A (Fallback)
+
+Domanda 291: In un ciclo esano in conformazione a sedia:
+A) Opzione A (Fallback)
+B) ci sono sempre 6 idrogeni equatoriali e 6 idrogeni assiali
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 292: In un diagramma di stato il punto triplo è:
+A) Opzione A (Fallback)
+B) il punto in cui le 3 fasi (solido, liquido e gassoso) sono tutte presenti in equilibrio tra  loro
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 293: In un processo endotermico:
+A) l'energia viene assorbita dall'ambiente
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 294: In un processo spontaneo la grandezza che tende sempre ad aumentare è:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) l’entropia
+D) Opzione C (Fallback)
+
+Domanda 295: In un recipiente chiuso all'equilibrio l'evaporazione è:
+A) macroscopicamente ferma, ma molecole passano dallo stato liquido a quello  gassoso e viceversa (equilibrio dinamico)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 296: In un sistema chiuso in cui si è realizzato il generico equilibrio aA + bB = cC + dD  viene aggiunto B. A seguito dell’aggiunta:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) la concentrazione di A diminuisce e quella di C aumenta
+D) Opzione C (Fallback)
+
+Domanda 297: In un sistema chiuso in cui si è realizzato il generico equilibrio aA + bB = cC + dD  viene aggiunto D. A seguito dell’aggiunta:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) la concentrazione di C diminuisce e quella di B aumenta
+
+Domanda 298: In una molecola con "n" centri chirali il numero massimo di stereoisomeri è: 2n:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) 2n
+
+Domanda 299: In una molecola neutra la somma delle cariche formali è:
+A) Opzione B (Fallback)
+B) 0
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 300: In una reazione di equilibrio per la quale la reazione da sinistra a destra sviluppa  calore, la reazione da destra a sinistra è:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) endotermica
+
+Domanda 301: In una reazione di sostituzione:
+A) un atomo o un gruppo sostituisce un altro atomo o un altro gruppo.
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 302: In una reazione è sicuramente non spontanea quando:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) ∆H > 0, ∆S 0
+D) Opzione A (Fallback)
+
+Domanda 303: In una reazione endotermica:
+A) Opzione A (Fallback)
+B) la diminuzione della temperatura provoca lo spostamento della reazione verso  sinistra e il valore della costante d'equilibrio diminuisce
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 304: In una reazione endotermica:
+A) deltaH>0
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 305: In una reazione esotermica:
+A) Opzione C (Fallback)
+B) l'aumento della temperatura provoca lo spostamento della reazione verso sinistra e  il valore della costante di reazione diminuisce
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 306: In una reazione esotermica:
+A) Opzione A (Fallback)
+B) la concentrazione dei prodotti è minore di 70°C rispetto che a 20°C
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 307: In una reazione SN2 mettete in ordine di reattività crescente dal meno reattivo a  quello più reattivo i seguenti substrati Bromocicloesano 2-Metilbromocicloesano  ioduro di metile:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) 2 - Metilbromocicloesano < Bromocicloesano < ioduro di metile
+
+Domanda 308: In una reazioni di ossido-riduzione (reazione redox):
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) si verifica il trasferimento di elettroni da una specie ad un'altra con conseguente  variazione dei numeri di ossidazione delle specie implicate
+D) Opzione C (Fallback)
+
+Domanda 309: In una relazione alle caratteristiche degli idrocarburi aromatici quale affermazione è  sbagliata?:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) nelle molecole degli idrocarburi aromatici è sempre presente un anello benzeico
+
+Domanda 310: In una soluzione acquosa indica quale, fra gli acidi CH3COOH e HCL, è più forte:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) HCL perché maggiormente dissociato
+
+Domanda 311: In una titolazione di una base forte con un acido forte, oltre il punto equivalente:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) l'eccesso di acido forte determina il pH
+
+Domanda 312: In una trasformazione chimica viene definito sistema:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) le sostanze che partecipano alla reazione
+
+Domanda 313: Indica quale delle seguenti affermazioni è valida per un enzima che catalizza una  reazione reversibile del tipo:
+A) A+B ⇆ C+D: partecipa alla reazione legando i substrati
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 314: Indica quale delle seguenti affermazioni è valida per un enzima che catalizza una  reazione reversibile del tipo: A+B ⇆ C+D:
+A) Opzione A (Fallback)
+B) partecipa alla reazione legando i substrati
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 315: Indicare a che temperatura 50 grammi di azoto N2 tenuti a pressione atmosferica  occupano un volume di…:
+A) -136°C
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 316: Indicare a quale categoria di composti organici appartiene il composto CH3-O- CH2CH3:
+A) eteri
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 317: indicare cosa hanno in comune l’isotopo 58F e l’isotopo 59 Co:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) il numero di neutroni
+
+Domanda 318: indicare formula dell’acido ortofosforico:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) H2PO4
+
+Domanda 319: Indicare il composto che contiene almeno un legame covalente e ionico:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) bromuro di ammonio
+D) Opzione A (Fallback)
+
+Domanda 320: Indicare in che stato fisico si trovano gli alcani che hanno catene lineari che vanno  da 5 a 17 atomi di carbonio
+A) Opzione C (Fallback)
+B) liquido
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 321: Indicare in quale molecola l'atomo di cloro porta una parziale carica….
+A) Opzione B (Fallback)
+B) Cl-F
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 322: Indicare l’acido più forte tra i seguenti:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) HCL
+D) Opzione B (Fallback)
+
+Domanda 323: Indicare l’equazione che rappresenta l’energia di seconda ionizzazione:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Mg(g)1+energia~Mg(g)2+ + e
+D) Opzione A (Fallback)
+
+Domanda 324: Indicare l’isomero di CH8COOH:
+A) HCOOCH8 oppure CH8COOCH8
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 325: Indicare l’unica affermazione corretta tra le seguenti:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) i valori di elettronegatività consentono di valutare le caratteristiche ioniche o  covalenti dei legami tra atomi diversi
+D) Opzione C (Fallback)
+
+Domanda 326: Indicare la definizione corretta di molecola
+A) Opzione C (Fallback)
+B) LA PIU’ PICCOLA QUANTITA’ DI UN ELEMENTO O COMPOSTO CHE NE  CONSERVA TUTTE LE CARATTERISTICHE FISICHE
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 327: Indicare la massa di ossido di calcio che si può ottenere da 1 kg di CaCO3 secondo  la reazione:
+A) Opzione C (Fallback)
+B) CaCO2→CaO +CO2 Peso atomico Ca… Peso atomico O=16 u.m.a: 560 gr
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 328: Indicare la tipologia di reazione che avviene tra i due reagenti C₂H₄ e Br₂:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) addizione
+
+Domanda 329: Indicare qual è il numero di ossidazione del carbonio terminale nel composto C4H10
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) -3
+
+Domanda 330: Indicare qual è il numero totale di orbitali nel sottolivello 4f:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) 7
+
+Domanda 331: Indicare qual è il prodotto di ossidazione del 2-metal-1-pentanolo
+A) 2-metilpentanale
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 332: Indicare qual è un esempio di cambiamento di fase esotermica:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) da liquido a solido
+
+Domanda 333: indicare qual’è la base più debole tra le seguenti?:
+A) Opzione B (Fallback)
+B) Br
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 334: Indicare qual’è la corretta formula molecolare di 1,2-etandiolo:
+A) C2H4(oH)2
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 335: indicare quale affermazione sulla dimensione di atomi e ioni è corretta?:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Hˉ è più grande di H+
+D) Opzione A (Fallback)
+
+Domanda 336: Indicare quale classe di composti organici è rappresentata come R-OH:
+A) alcoli
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 337: Indicare quale composto è un acido organico:
+A) CH3C00H
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 338: Indicare quale dei seguenti elementi ha la minore energia di ionizzazione:
+A) potassio, K
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 339: Indicare quale dei seguenti Sali, se disciolto in acqua distillata, ne modifica il PH né  in senso acido, né in senso basico
+A) NH4Br
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 340: Indicare quale delle seguenti affermazioni descrive meglio la variazione del raggio  atomico degli elementi relativamente alla loro posizione nella tabella periodica:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) diminuisce lungo un periodo, aumenta scendendo in un gruppo
+D) Opzione B (Fallback)
+
+Domanda 341: Indicare quale delle seguenti caratteristiche è comune al benzene e all’etene:
+A) l’ibridazione sp2
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 342: Indicare quale delle seguenti concentrazioni di ioni H+ corrisponde ad un pH basico:
+A) Opzione B (Fallback)
+B) [H+]=10-10 M
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 343: Indicare quale delle seguenti soluzioni conduce in maniera apprezzabile la corrente  elettrica:
+A) Opzione A (Fallback)
+B) soluzione acquosa di bromuro di sodio
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 344: Indicare quale di queste sostanze appartiene alla classe dei componenti eterociclici  a carattere aromatico:
+A) Opzione C (Fallback)
+B) pirrolo
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 345: Indicare quale di queste specie chimiche ha meno di otto elettroni di valenza  attorno all’atomo centrale:
+A) TRICLORURO DI BORO, BCl3
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 346: Indicare quale è la struttura dell’etere dietilico:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) C2H5-O-C2H5
+
+Domanda 347: Indicare quale elemento darà con maggiore facilità uno ione di carica 2+:
+A) Opzione A (Fallback)
+B) Calcio
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 348: Indicare quale elemento ha il raggio atomico maggiore:
+A) potassio K
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 349: Indicare quale elemento richiede più energia per convertire una mole di atomi  gassosi in ioni gassosi….
+A) Opzione C (Fallback)
+B) litio
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 350: Indicare quale formula rappresenta una molecola tetraedrica:
+A) tetrafluoruro di silicio, SiF4
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 351: Indicare quale formula rappresenta una molecola tetraedrica:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) ione ammonio NH4+
+D) Opzione B (Fallback)
+
+Domanda 352: Indicare quale formula rappresenta uno ione tetraedrico:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) 2- solfato, SO4
+D) Opzione C (Fallback)
+
+Domanda 353: Indicare quale fra i seguenti legami ha il maggiore carattere ionico:
+A) Opzione B (Fallback)
+B) Li-Br
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 354: Indicare quale meccanismo prevede l’inversione della configurazione di uno  stereocentro:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) SN2
+
+Domanda 355: Indicare quale molecola organica ha forme di risonanza:
+A) Opzione C (Fallback)
+B) benzene
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 356: Indicare quale molecola tra le seguenti può presentare una isometria cis-trans
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) CHCl=CHCl
+D) Opzione A (Fallback)
+
+Domanda 357: Indicare quale tra i seguenti alcoli contiene più di un gruppo idrossilico:
+A) Opzione A (Fallback)
+B) glicerolo
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 358: Indicare quale tra i seguenti composti è un carboidrato:
+A) Opzione A (Fallback)
+B) maltosio
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 359: Indicare quale variazione dello stato di un sistema gassoso ne fa diminuire  l'entropia
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) il raffreddamento
+
+Domanda 360: Indicare quali composti sono tra loro isomeri:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) 1-propanolo and 2-propanolo
+D) Opzione A (Fallback)
+
+Domanda 361: Indicare quali sono i segni di deltaH e deltaS per una reazione spontanea solo alle  basse temperature:
+A) entrambi negativi E’ SBAGLIATA MA GIUSTA DA DISPENSA
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 362: Indicare quali tipi di legami si trovano in un campione di acqua:
+A) Opzione A (Fallback)
+B) legami covalenti e legami a idrogeno
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 363: Indicare quali tra questi è un agente ossidante:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) bicromato di potassio
+
+Domanda 364: Indicare quante moli di H2O possono essere prodotte dalla reazione di 32g di  metano con un eccesso di ossigeno secondo al reazione da bilanciare CH4+O2  CO2+H2O:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) 4
+D) Opzione A (Fallback)
+
+Domanda 365: Indicare quanti atomi di carbonio ci sono in una molecola di 2,3,3-trimetilpentano:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) 8
+D) Opzione C (Fallback)
+
+Domanda 366: Indicare tra le seguenti affermazioni riferite alla molecola di ammoniaca quella  corretta:
+A) l’atomo N usa per i legami orbitali ibridi sp2
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 367: indicare tra le seguenti sostanze, quella che si scioglie in un solvente polare:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) acetato dipotassio
+D) Opzione B (Fallback)
+
+Domanda 368: Indicare, tra le seguenti, la molecola lineare non polare:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) biossido di carbonio, CO2
+D) Opzione C (Fallback)
+
+Domanda 369: Indicare, tra le seguenti, la molecola lineare polare:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) monossido di carbonio, CO
+D) Opzione C (Fallback)
+
+Domanda 370: Individua quali tra queste unità rappresenta il rapporto tra il numero di moli del  soluto e il numero di moli totali (soluto+solvente):
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) frazione molare
+
+Domanda 371: Individuare la parola da scartare perché NON può essere riferita agli alcheni:
+A) Opzione C (Fallback)
+B) paraffina
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 372: L’acetilene è:
+A) Opzione A (Fallback)
+B) un alchino
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 373: L’acetone o propanone o dimetilchetone ha struttura:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) CH3-CO-CH3
+
+Domanda 374: L’acido benzoico è:
+A) Opzione B (Fallback)
+B) un acido carbossilico aromatico
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 375: l’acqua ossigenata è:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) un composto diverso dall’acqua
+
+Domanda 376: L’addizione di acido cloridrico al 2-metilpropene produce:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) 2-cloro-2-meltipropano
+
+Domanda 377: L’addizione di acido cloridrico al 3-metil-1-butene produce:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) 2-cloro-2-metilutano
+D) Opzione A (Fallback)
+
+Domanda 378: L’addizione di acido cloridrico all’etene produce:
+A) 1-cloroetano
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 379: L’addizione di bromo ad un doppio legame in presenza di acqua porta alla  formazione di:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) aloidrine
+
+Domanda 380: L’addizione di HBr a 1- eptene produce principalmente:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) 2S- BROMOEPTANO+ 2R  BROMMOEPATANO
+
+Domanda 381: L’addizione di NH3 al cloruro di acetile porta alla formazione di:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) acetammide
+
+Domanda 382: L’affinità elettronica è una proprietà periodica degli elementi. Quale affermazione è  vera:
+A) Opzione C (Fallback)
+B) Misura l'energia della reazione X(g) + e- -> X-(g)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 383: l’Angstrom è:
+A) Opzione C (Fallback)
+B) l’unità di misura della dimensione atomica
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 384: l’atomo di un elemento con carattere metallico presenta normalmente nei suoi  composti un numero di ossidazione:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) positivo
+
+Domanda 385: L’effetto induttivo elettrondonatore dei gruppi alchilici è basato su:
+A) iperconiugazione
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 386: L’elemento che allo stato fondamentale ha struttura elettronica 1s2, 2s2p6, 3s2p6,  4s2 è:
+A) calcio, Ca
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 387: L’elettrofilo è:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) atomo o molecola elettronpovera in grado di accettare un doppietto elettronico per  formare un legame covalente. Gli elettrofili possono essere molecole neutre o ioni  positivi
+D) Opzione A (Fallback)
+
+Domanda 388: l’elettroforesi è un processo per la separazione di composti sulla base:
+A) Opzione C (Fallback)
+B) delle loro cariche elettriche
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 389: L’energia di attivazione di una reazione rappresenta:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) la barriera energetica che i reagenti devono superare per trasformarsi nei prodotti
+D) Opzione A (Fallback)
+
+Domanda 390: L’energia di attivazione:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) è la differenza di energia tra stato di transizione e reagenti
+D) Opzione C (Fallback)
+
+Domanda 391: L’energia di prima ionizzazione del fluoro è relativa al processo :
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) F(g) →F+(g)+e-
+D) Opzione A (Fallback)
+
+Domanda 392: L’energia di prima ionizzazione è
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) l’energia che bisogna fornire ad un atomo, isolato e gassoso, per togliergli un  elettrone
+D) Opzione C (Fallback)
+
+Domanda 393: L’energia di un orbitale dipende:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) dal numero quantico principale ed in minor misura da quello secondario
+D) Opzione C (Fallback)
+
+Domanda 394: L’energia interna di un sistema termodinamico è:
+A) la somma di tutte le energie del sistema
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 395: L’entalpia di formazione di un composto, a 25°C e 1 atm:
+A) Opzione A (Fallback)
+B) può essere positiva o negativa
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 396: L’equazione di stato dei gas perfetti corrisponde a:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) PV= nRT
+
+Domanda 397: L’equilibrio di una reazione chimica può essere influenzato:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) dalla temperatura
+
+Domanda 398: L’etano appartiene agli:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) alcani
+
+Domanda 399: L’etilene quando reagisce con acqua in presenza di H2PO4 come catalizzatore a  25°C, produce:
+A) etanolo
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 400: L’etilene quando reagisce con acqua in presenza di H8PO4 come catalizzatore a  250°C produce:
+A) etanolo
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 401: L’idrolisi basica di un estere detta saponificazione è:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) una reazione irreversibile
+D) Opzione A (Fallback)
+
+Domanda 402: L’idrolisi dei trigliceridi in ambiente basico porta la formazione di:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) glicerolo e saponi
+D) Opzione C (Fallback)
+
+Domanda 403: L’interazione intermolecolare prevalente (o l’unica possibile) tra due molecole di  alcheni è:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) interazione dipolo indotto - dipolo indotto
+
+Domanda 404: L’isotopo 14C rispetto all’isotopo 12C possiede:
+A) due neutroni in più
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 405: L’isotopo Cloro-35 possiede:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) 17 protoni, 18 neutroni, 17 elettroni
+D) Opzione B (Fallback)
+
+Domanda 406: L’ordine di stabilità dei carbocationi è:
+A) Opzione C (Fallback)
+B) (CH2 +<primario<secondario>terziario NO E’ SBAGLIATA)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 407: L’ossidazione mediante K2Cr2O4 dell’acetaldeide produce:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) acido acetico
+D) Opzione A (Fallback)
+
+Domanda 408: l’ossidazione totale di una molecola di metano dà origine a:
+A) una mole ci CO2 e due moli di H2O
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 409: l’ossido di carbonio è tossico perché:
+A) si lega all’emoglobina con maggiore affinità dell’ossigeno
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 410: La base coniugata dell’acido acetico (CH3COOH) è:
+A) Opzione B (Fallback)
+B) CH3COO
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 411: La base coniugata di un acido forte è:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) debole
+
+Domanda 412: La basicità della piridina è legata alla coppia elettronica disposta in:
+A) a 90° rispetto all'orbitale p non ibridato
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 413: La branca della chimica che studia l'energia e le sue trasformazioni è detta:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) termodinamica
+D) Opzione A (Fallback)
+
+Domanda 414: La caratteristica fondamentale degli idrocarburi aromatici è:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) La delocalizzazione degli orbitali di legame π.
+
+Domanda 415: La cellulosa è un polisaccaride indigeribile dalle amilasi del nostro intestino a  causa di un legame glicosidico tipo:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) b-1,4-glicosidico
+
+Domanda 416: La cellulosa è:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) un polisaccaride
+
+Domanda 417: la combustione totale di glucosio C6H12O6 porta alla formazione di:
+A) 6 molecole di C e 6 di H2O2
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 418: La configurazione elettronica 1s2 2s2 2p6 3s2 rappresenta:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) un metallo alcalino
+
+Domanda 419: La configurazione elettronica del calcio è:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) 1s2 2s2 2p6 3s2 3p6 4s2
+D) Opzione B (Fallback)
+
+Domanda 420: La configurazione elettronica del fosforo (simboloP) è:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) 1s22s22p63s23p3
+
+Domanda 421: La configurazione elettronica del magnesio (simbolo Mg) è:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) 1s22s22p63s23p3
+D) Opzione B (Fallback)
+
+Domanda 422: La conformazione più stabile nel cicloesano è:
+A) sedia
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 423: La costante di equilibrio di una reazione al crescere della temperatura:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) aumenta se la reazione è endotermica, diminuisce se la reazione è esotermica
+
+Domanda 424: La denominazione più esatta per uno zucchero a tre atomi di carbonio è:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) trioso
+D) Opzione A (Fallback)
+
+Domanda 425: La desinenza ‘one’, secondo le regole internazionali di nomenclatura, spetta:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) ai chetoni
+D) Opzione A (Fallback)
+
+Domanda 426: La differenza tra amilosio e amilopectina è:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) l’amilosio contiene solo legami glicosidici 1,4 mentre l’amilopectina ne contiene  anche 1,6
+
+Domanda 427: La differenza tra amilosio e cellulosa è:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) l’amilosio presenta legami glicosidici alfa, la cellulosa beta
+
+Domanda 428: La differenza tra l’isotopo 125 e 131 dello iodio dipende dal fatto che:
+A) l’isotopo 131 possiede 6 neutroni in più rispetto all’isotopo 125
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 429: la differenza tra la dimensione atomica degli atomi di sodio e cloro è principalmente  dovuta alla differenza in:
+A) Opzione C (Fallback)
+B) numero di protoni
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 430: La disposizione degli atomi di carbonio del benzene nello spazio è:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) planare
+D) Opzione B (Fallback)
+
+Domanda 431: La distillazione è un processo di separazione basato su diversità di:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) punto di ebollizione
+D) Opzione A (Fallback)
+
+Domanda 432: La forma ciclica a 6 termini di un monosaccaride viene detta:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) piranosica
+D) Opzione C (Fallback)
+
+Domanda 433: La formalina come sol. acquosa al 37% viene impiegata come:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) disinfettante e conservante
+D) Opzione C (Fallback)
+
+Domanda 434: La formula bruta (o minima o empirica) BH3 può riferirsi:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) sia a BH3 che a B2H6
+D) Opzione C (Fallback)
+
+Domanda 435: La formula bruta C3H2,corrisponde a:
+A) Opzione C (Fallback)
+B) pentino
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 436: La formula bruta C4H10 corrisponde a :
+A) un alcano
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 437: La formula bruta C₅H₈, corrisponde a:
+A) pentino
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 438: La formula corretta dell’idrogenosolfuro di potassio detto anche bisolfuro di  potassio è:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) KHS
+
+Domanda 439: La formula dell'idrossido ferrico è:
+A) Opzione A (Fallback)
+B) Fe(OH)3
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 440: La formula dello ione nitrato è:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) NO3-
+D) Opzione A (Fallback)
+
+Domanda 441: La formula elementare CH può descrivere solo una di queste molecole:
+A) Opzione A (Fallback)
+B) benzene C6H6
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 442: La formula molecolare BH3 si può riferire:
+A) solo a BH3
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 443: La formula n = peso (g) / PM indica che dividendo il peso in grammi per il peso  molecolare si ottiene:
+A) Opzione A (Fallback)
+B) il numero di moli contenute in un campione di sostanza
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 444: La gliceraldeide e il diidrossichetone sono rispettivamente:
+A) un aldotrioso e un chetotrioso
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 445: La idroalogenazione degli alcheni porta la formazione di:
+A) Opzione C (Fallback)
+B) (composti aromatici è sbagliata) alogeno alcani
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 446: La legge di conservazione della massa afferma che:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) in una reazione chimica, la materia non si crea e non si distrugge
+
+Domanda 447: La lunghezza del legame tra due atomi di carbonio C aumenta nell'ordine:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) triplo
+
+Domanda 448: La minima quantità di energia necessaria a rimuovere l'elettrone più debolmente  legato da un atomo gassoso isolato per formare uno ione con carica +1 è la  definizione di:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) energia di prima ionizzazione
+
+Domanda 449: La molalità di una soluzione ottenuta sciogliendo 0,2 mol di CH3COOH in 500g di  acqua è:
+A) 0.4
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 450: La molarità è definita come:
+A) Opzione C (Fallback)
+B) rapporto tra il numero di moli del soluto ed il volume espresso in litri di soluzione in  cui il soluto è disciolto
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 451: La molecola BeBr2 ha geometria:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) lineare
+D) Opzione B (Fallback)
+
+Domanda 452: La molecola PCI5 ha geometria:
+A) Opzione C (Fallback)
+B) bipiramidale triangolare
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 453: La nomenclatura degli acidi carbossilici deriva da quella dell'alcano corrispondente  preceduto dal termine Acido e seguito dalla desinenza:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) -oico
+D) Opzione C (Fallback)
+
+Domanda 454: La nomenclatura IUPAC degli alchini prevede l'impiego del suffisso:
+A) Opzione A (Fallback)
+B) ino
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 455: La nomenclatura IUPAC degli alcoli prevede l'impiego del suffisso:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) -olo
+D) Opzione A (Fallback)
+
+Domanda 456: La piridina è:
+A) Opzione B (Fallback)
+B) un composto aromatico eterociclico
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 457: La più comune reazione del doppio legame C=C è:
+A) Opzione C (Fallback)
+B) la reazione di addizione elettrofila
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 458: La più piccola particella di un composto covalente che ha le proprietà chimiche del  composto stesso è:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) molecola
+
+Domanda 459: La precipitazione avviene quando:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) QC > Kps
+D) Opzione A (Fallback)
+
+Domanda 460: La preparazione dell'aspirina prevede una reazione tra l'acido o-idrossi benzoico  con:
+A) anidride acetica
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 461: La pressione di vapore di un liquido che occupa parzialmente un contenitore chiuso  è influenzata da uno dei seguenti fattori. Indicare quale:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) temperatura del liquido
+D) Opzione A (Fallback)
+
+Domanda 462: La principale problematica associata all’uso degli eteri è dovuta a:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) alta volatilità e vapori infiammabili
+D) Opzione A (Fallback)
+
+Domanda 463: La proiezione di Fischer è un modo convenzionale per:
+A) Opzione B (Fallback)
+B) rappresentare su un piano la struttura tridimensionale di una molecola chirale
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 464: La quantità massima di prodotto ottenibile da una reazione chimica, supponendo  che essa sia completa e che non si perda del prodotto, è detta:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) resa teorica
+
+Domanda 465: La reazione CH2CH2+H2+CH3CH3 è un esempio di
+A) Opzione B (Fallback)
+B) addizione
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 466: La reazione dei chetoni e aldeidi con acqua sia in ambiente acido che basico forma:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) idrati
+D) Opzione C (Fallback)
+
+Domanda 467: La reazione dei chetoni e aldeidi con alcoli in ambiente acido porta alla formazione  di:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) acidi carbossilici
+D) Opzione B (Fallback)
+
+Domanda 468: La reazione di addizione delle ammine primarie con aldeidi porta alla formazione di:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) immine o Basi di Shiff
+
+Domanda 469: La reazione di addizione di H2O all'acetone di seguito riportato, porta alla  formazione di
+A) diolo geminale
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 470: La reazione di formazione di emiacetali ed acetali è una reazione di:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) addizione al doppio legame C=O
+
+Domanda 471: La reazione di formazione di un alcol a partire da un alchene è:
+A) Opzione B (Fallback)
+B) una reazione di addizione
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 472: La reazione di idratazione degli alcheni richiede una catalisi:
+A) acida
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 473: La reazione di idrolisi degli esteri in ambiente basico prende il nome di:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) saponificazione
+D) Opzione C (Fallback)
+
+Domanda 474: La reazione di imbrunimento che avviene in presenza di zuccheri e proteine prende  il nome di:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) reazione di Maillard
+
+Domanda 475: La reazione di sintesi dell’acqua 2H2(g)+O2(g)↔2H2O(l) deltaH=-286 kj/mol è  spontanea e avviene con:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) diminuzione di entalpia e diminuzione di entropia
+D) Opzione A (Fallback)
+
+Domanda 476: La reazione di SN2è più veloce su alogenuri metilici o primari per ragioni:
+A) Opzione A (Fallback)
+B) steriche
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 477: La reazione di sostituzione nucleofila SN2 è favorita da:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) alogenuri alchilici primari
+
+Domanda 478: La reazione di un aldeide con un ammina primaria e con un ammina secondaria  produce:
+A) Opzione C (Fallback)
+B) una immina ed una enammina
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 479: La reazione è spontanea ? DH=-200kj/mole DS=-20 h/mole k:
+A) solo a basse T
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 480: La reazione in cui un alcol sposta un altro alcol da un estere è una reazione di:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) transesterificazione
+D) Opzione C (Fallback)
+
+Domanda 481: la reazione si dice all’equilibrio quando:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) la velocità della reazione diretta e di quella inversa è la stessa
+D) Opzione C (Fallback)
+
+Domanda 482: La reazione SN1 è:
+A) dipendente solo dalla concentrazione del substrato
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 483: La reazione tra aldeidi e chetoni con ammine è una reazione di:
+A) addizione-eliminazione
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 484: la reazione tra l’etanolo e l’acetilcloruro porta alla formazione di:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) un estere
+
+Domanda 485: La reazione tra un cloruro acilico e l'ammoniaca produce:
+A) Opzione B (Fallback)
+B) ammide
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 486: La regola dell'ottetto afferma che:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) nella maggior parte dei composti covalenti gli elementi raggiungono la  configurazione elettronica dei gas nobili (8 elettroni nel guscio più esterno)
+
+Domanda 487: La regola di Huckel afferma che:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) un composto è aromatico se planare se possiede 4n + 2 elettroni pi greco
+D) Opzione B (Fallback)
+
+Domanda 488: La regola di markovnikov alla base dell’addizione elettrofila degli alcheni afferma  che:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) si forma sempre il carbocatione più sostituito oppure si forma sempre il  carbocatione meno sostituito
+D) Opzione A (Fallback)
+
+Domanda 489: La regola di Markovnikov, alla base dell'addizione elettrofila agli alcheni, afferma  che:
+A) Opzione B (Fallback)
+B) si forma sempre il carbocatione più sostituito
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 490: La resina arammidica (Kevlar) si prepara per reazione tra:
+A) acido tereftalico e p-fenilendiammina
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 491: La resistenza di un liquido a fluire è definita:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) viscosità
+
+Domanda 492: La riduzione dei nitrili mediante litio allumino idruro, porta alla formazione di:
+A) ammina primaria [o aldeidi]
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 493: La riduzione delle ammidi terziarie con LiAlH4 permette di ottenere:
+A) Opzione A (Fallback)
+B) ammine terziarie
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 494: La riduzione di un’ammide primaria mediante LiAlH4 porta alla formazione di:
+A) Opzione A (Fallback)
+B) un’ammina primaria
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 495: La seguente struttura organica CH3COOCH2CH3 corrisponde a:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) un estere
+
+Domanda 496: La solubilità di AgCl in una soluzione di HCl rispetto a quella in acqua pura:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) diminuisce
+D) Opzione A (Fallback)
+
+Domanda 497: La solubilità di un solido in acqua:
+A) Opzione B (Fallback)
+B) Dipende dalla temperatura, ma non dalla pressione
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 498: La sostanza KOH. Può formare un sale reagendo con:
+A) HBr
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 499: La stereochimica dell'addizione del Br2 agli alcheni è:
+A) Opzione C (Fallback)
+B) anti
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 500: La stereochimica di attacco allo ione bromonio è sempre:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) anti
+
+Domanda 501: La stereoselettività delle reazioni di idrogenazione è:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) sin
+D) Opzione A (Fallback)
+
+Domanda 502: La struttura di Lewis qui sotto che ha una carica negativa sull’ossigeno come  potrebbe essere migliorata?
+A) Opzione A (Fallback)
+B) Occorre rimuovere un doppio legame spostando il doppietto di legame P greco  sull’ossigeno per rispettare la regola dell’ottetto.
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 503: La struttura geometrica di un alchene è
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) iramide trigonale sbagliata
+
+Domanda 504: La struttura più stabile per il cicloesano è:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) quella a sedia, con angoli di legame di 109,5 ° e gli H alla massima distanza
+D) Opzione B (Fallback)
+
+Domanda 505: La struttura R—NH2 caratterizza:
+A) Opzione A (Fallback)
+B) le ammine primarie
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 506: La tautomeria cheto-enolica è un equilibrio tra due forme:
+A) una chetonica e l'altra enolica
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 507: La temperatura di ebollizione di un liquido puro:
+A) aumenta all’aumentare della pressione
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 508: La temperatura di ebollizione di una soluzione acquosa 1 molale di KCl (assumendo  Keb = 0,5) è:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) 101° C
+D) Opzione A (Fallback)
+
+Domanda 509: La tensione superficiale è:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) l'energia che bisogna spendere per aumentare la superficie diun liquido di una  quantità unitaria(cid:9)
+
+Domanda 510: La teoria di VSEPR permette di predire:
+A) Opzione C (Fallback)
+B) la forma di molecole e ioni poliatomici
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 511: La variazione dell’entalpia di un sistema:
+A) Opzione C (Fallback)
+B) è uguale al calore ceduto o assorbito dal sistema a pressione costante
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 512: La velocità di una reazione è definita:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Vreaz = -dC/dt
+D) Opzione B (Fallback)
+
+Domanda 513: L'acetone (o propanone o dimetilchetone) ha struttura:
+A) Opzione C (Fallback)
+B) CH3-CO-CH3
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 514: L'acidità degli alcoli ingombrati è minore rispetto a quelli lineari a causa:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) dell'effetto sterico
+D) Opzione A (Fallback)
+
+Domanda 515: L'acronimo SN1 significa:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) sostituzione nucleofila monomolecolare
+D) Opzione B (Fallback)
+
+Domanda 516: L'addizione di acido cloridrico al 2-metilpropene produce:
+A) 2-cloro-2-metilpropano
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 517: L'addizione di acido cloridrico al 3-metil-1-butene produce:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) 1-cloro-1-metilbutano (sbagliata)
+
+Domanda 518: L'addizione di acido cloridrico all'etene produce:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) 1-cloroetano
+D) Opzione C (Fallback)
+
+Domanda 519: L'affinità elettronica generalmente:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) diminuisce (è meno negativa) discendendo lungo un gruppo ed aumenta (è più  negativa) procedendo lungo un periodo da sinistra verso destra
+
+Domanda 520: L'amminolisi dei cloruri acili permette di preparare:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) ammidi
+
+Domanda 521: Le aldeidi e chetoni sono ridotte con NaBH4 rispettivamente in:
+A) Opzione C (Fallback)
+B) alcoli primari e secondari
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 522: Le aldeidi e i chetoni con i nucleofili danno luogo a:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) reazioni di addizione nucleofila
+D) Opzione C (Fallback)
+
+Domanda 523: Le aldeidi reagiscono con gli alcoli in presenza di catalisi acida per ottenere:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) acetali
+D) Opzione B (Fallback)
+
+Domanda 524: Le ammine aromatiche sono più o meno basiche di quelle alifatiche?:
+A) meno
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 525: Le ammine aromatiche sono:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) meno basiche delle ammine alifatiche  (dipende se la reazione è esotermica od endotermica E’ SBAGLIATA)
+
+Domanda 526: Le ammine sono composti organici formalmente derivati da:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) ammoniaca
+D) Opzione B (Fallback)
+
+Domanda 527: Le basi di Schiff si formano per reazione tra:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) aldeide o chetone con ammina primaria
+D) Opzione B (Fallback)
+
+Domanda 528: Le condizioni di temperatura e pressione per cui un gas reale tende a comportarsi  come un gas ideale sono:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) bassa pressione e alta temperatura @
+D) Opzione A (Fallback)
+
+Domanda 529: Le condizioni standard sono:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) P = 1 atm T = 298 K
+D) Opzione C (Fallback)
+
+Domanda 530: Le enammine si ottengono per reazioni tra un chetone e:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) ammine secondarie
+
+Domanda 531: Le formule di Lewis mostrano come sono disposti in una molecola:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) gli elettroni di valenza
+
+Domanda 532: Le forze intermolecolari tra le molecole di CO2 sono principalmente:
+A) Opzione B (Fallback)
+B) forze di dispersione o di van der Waals
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 533: Le immine (basi di Shiff) si formano per reazione tra:
+A) Opzione A (Fallback)
+B) aldeide o chetone con ammina primaria
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 534: Le mesoforme sono molecole con 2 o più centri chirali che presentano:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) un piano di simmetria
+D) Opzione A (Fallback)
+
+Domanda 535: Le molecole in un liquido:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) non hanno tutte la stessa energia cinetica
+
+Domanda 536: Le nitrosammine alifatiche:
+A) Opzione C (Fallback)
+B) sono composti cancerogeni
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 537: Le N-nitroso ammine si ottengono per reazioni tra lo ione nitrosonio e:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) una ammina secondaria
+D) Opzione C (Fallback)
+
+Domanda 538: le particelle costituenti un solido:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) hanno solo possibilità di oscillare attorno a posizioni fisse
+D) Opzione B (Fallback)
+
+Domanda 539: Le particelle di un liquido hanno forze di attrazione intermolecolari:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) meno intense che allo stato solido
+
+Domanda 540: Le proprietà e il comportamento chimico di un atomo dipendono principalmente da:
+A) gli elettroni di valenza
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 541: Le reazioni chimiche aumentano sempre la loro velocità all’aumentare della  temperatura, per diversi motivi. Quale dei seguenti NON è un motivo che causa  quest’accelerazione all’aumentare della temperatura?:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) le molecole passano più facilmente in fase gas
+
+Domanda 542: Le reazioni degli alchini sono reazioni di:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) addizione elettrofila
+
+Domanda 543: Le reazioni di apertura degli eteri ciclici in ambiente basico avvengono tramite una  reazione:
+A) SN2
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 544: Le reazioni di riarrangiamento sono:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) movimenti di gruppi chimici all'interno della molecola
+D) Opzione B (Fallback)
+
+Domanda 545: Le reazioni di SN1 sono accelerate da solventi:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) polari protici
+
+Domanda 546: Le reazioni di sostituzione nucleofila SN1 ed SN2 sono tipiche degli:
+A) alogenuri alchilici
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 547: Le reazioni SN1 avvengono più facilmente con:
+A) alogenuri terziari
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 548: Le tre classi principali di legame chimico sono:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) ionico, covalente e metallico
+
+Domanda 549: L'effetto induttivo elettrodonatore è basato su:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) iperconiugazione
+
+Domanda 550: L'elettrofilo è:
+A) Opzione B (Fallback)
+B) atomo o molecola elettronpovera in grado di accettare un doppietto elettronico per  formare un legame covalente. Gli elettrofili possono essere molecole neutre o ioni  positivi
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 551: L'elettronegatività descrive:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) la tendenza di ciascun atomo ad attrarre a sé gli elettroni condivisi
+D) Opzione C (Fallback)
+
+Domanda 552: L'energia di attivazione è:
+A) Opzione A (Fallback)
+B) energia che le molecole dei reagenti devono possedere per poter raggiungere uno  stadio intermedio, detto stato di transizione, in cui i legami originali sono indeboliti  e i nuovi legami sono formati solo parzialmente
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 553: L'energia di attivazione:
+A) Opzione C (Fallback)
+B) è la differenza di energia tra reagenti e stato di transizione
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 554: L'energia interna di un sistema termodinamico è
+A) Opzione B (Fallback)
+B) la somma di tutte le energie del sistema
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 555: L'energia libera di Gibbs G è legata a entropia ed entalpia del sistema secondo la  relazione:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) G = H - TS
+
+Domanda 556: L'energia libera di Gibbs si misura in:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) kJ/ mole
+
+Domanda 557: L'entalpia standard di formazione degli elementi nel loro stato standard è:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) zero
+
+Domanda 558: L'entalpia standard di reazione è:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) ∆Hr° = H°prodotti - H° reagenti
+
+Domanda 559: L'entropia è:
+A) Opzione C (Fallback)
+B) una funzione di stato estensiva
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 560: L'equazione di Arrhenius è la seguente relazione matematica:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) k = Ae-Ea/RT
+
+Domanda 561: L'equazione di stato dei gas perfetti è:
+A) PV= nRT
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 562: L'equilibrio chimico è raggiunto quando:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) la velocità della reazione diretta e quella della reazione inversa sono uguali e la  concentrazione dei prodotti e dei reagenti è costante
+
+Domanda 563: L'esistenza di forme diverse di uno stesso elemento che differiscono per il modo in  cui gli atomi si legano fra di loro e/o per il numero di atomi costituenti le unità  molecolari è detta:
+A) Opzione C (Fallback)
+B) allotropia
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 564: L'esperimento di Rutherford porta a dimostrare che:
+A) quasi l'intera massa dell'atomo è concentrata in un piccolo spazio al centro  dell'atomo, il nucleo, e gli elettroni sono posti a grande distanza da esso
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 565: L'esterificazione di Fisher permette di preparare gli esteri per reazione tra:
+A) Opzione B (Fallback)
+B) un acido carbossilico e un alcool con un catalizzatore acido
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 566: L'etene reagisce con il cloro, con il bromo e con l’acido cloridrico. Tali reazioni  sono esempi di:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) addizione
+D) Opzione A (Fallback)
+
+Domanda 567: L'ibridazione è:
+A) la promozione è possibile ogni qual volta la differenza di energia tra dell'orbitale di  partenza e quello di arrivo è piccola
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 568: L'idrogenazione catalitica degli alcheni porta a:
+A) Opzione A (Fallback)
+B) alcani
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 569: L'idrogenazione degli acidi grassi a livello industriale serve per:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) la produzione delle margarine
+D) Opzione C (Fallback)
+
+Domanda 570: L'idrolisi dei nitrili permette di ottenere:
+A) Opzione A (Fallback)
+B) acidi carbossilici e ammoniaca
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 571: L'idrolisi dei trigliceridi in ambiente basico porta alla formazione di
+A) glicerolo e saponi
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 572: L'idrolisi delle ammidi può avvenire in ambiente:
+A) Opzione C (Fallback)
+B) sia acido che basico
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 573: L'indolo è un composto:
+A) eterociclico aromatico
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 574: L'interazione ione-ione è direttamente proporzionale:
+A) Opzione B (Fallback)
+B) alla carica degli ioni
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 575: L'isomeria conformazionale è:
+A) Opzione A (Fallback)
+B) una forma di isomeria spaziale in cui gli isomeri sono convertibili l'uno nell'altro  senza rompere legami
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 576: L'isotopo 14C rispetto all'isotopo 12C possiede
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) due neutroni in più
+D) Opzione B (Fallback)
+
+Domanda 577: Lo stato di ossidazione rappresenta:
+A) Opzione C (Fallback)
+B) il numero di elettroni che vengono formalmente tolti o assegnati ad un atomo di un  composto, rispetto al numero di elettroni presenti nell'atomo non combinato con  atomi di altri elementi
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 578: Lo stato di un gas perfetto è descritto da quattro variabili:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) pressione, volume, temperatura, numero di moli
+
+Domanda 579: Lo stato fisico delle sostanze che partecipano ad una reazione si indica con i  seguenti simboli:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) s: solido, l: liquido, g: gassoso, aq: acquoso
+D) Opzione B (Fallback)
+
+Domanda 580: Lo studio della velocità delle reazioni, dei fattori che la influenzano e dei  meccanismi è detto:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) cinetica chimica
+
+Domanda 581: L'ordine di basicità crescente nelle ammine: ammoniaca primaria secondaria  terziaria:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) ammoniaca
+D) Opzione A (Fallback)
+
+Domanda 582: L'ordine di stabilità dei carbocationi è
+A) Opzione A (Fallback)
+B) CH3+ <1° < 2° < 3°
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 583: L'ordine di stabilità dei radicali è:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) primario
+D) Opzione C (Fallback)
+
+Domanda 584: L'osmosi è:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) un processo spontaneo per cui molecole di solvente passano attraverso una  membrana semipermeabile da una soluzione a più bassa concentrazione di soluto  verso una a concentrazione più elevata
+D) Opzione C (Fallback)
+
+Domanda 585: L'ossidazione mediante K2Cr2O4 dell'acetaldeide produce
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) acido acetico
+
+Domanda 586: Lungo un periodo della tavola periodica, da sinistra a destra, il raggio atomico:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) diminuisce progressivamente
+D) Opzione A (Fallback)
+
+Domanda 587: Lungo un periodo della tavola periodica, dal I al VII gruppo, il raggio atomico
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Diminuisce progressivamente
+D) Opzione A (Fallback)
+
+Domanda 588: Molecole di HCL allo stato gassoso possono legarsi tra loro mediante:
+A) forze di Van Der Waals
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 589: NaBH4 riduce selettivamente:
+A) Opzione B (Fallback)
+B) aldeidi e chetoni
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 590: Negli aldeidi è presente:
+A) il carbonile
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 591: Negli ossiacidi inorganici:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Gli atomi di idrogeno acidi sono legati in modo covalente agli atomi di ossigeno
+
+Domanda 592: Nei confronti di un nucleofilo l'ordine di reattività delle aldeidi e chetoni è:
+A) Opzione B (Fallback)
+B) formaldeide>aldeidi>chetoni
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 593: Nei derivati degli acidi carbossilici il gruppo -RCO prende il nome di:
+A) Opzione B (Fallback)
+B) gruppo acilico
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 594: Nei nucleotidi lo zucchero può essere un:
+A) ribosio o desossiribosio
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 595: Nel benzene disostituito la nomenclatura orto significa che i due sostituenti  sononelle posizione:
+A) 1.2
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 596: Nel benzene tutti gli atomi di carbonio sono ibridati:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) sp2
+
+Domanda 597: Nel cicloesano monosostituito la conformazione più stabile è:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) equatoriale
+
+Domanda 598: Nel composto Na2S2O2 il numero di ossidazione medio dello zolfo è:
+A) 2119
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 599: Nel composto Na2S2O3 il numero di ossidazione medio dello zolfo è:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) 2
+D) Opzione A (Fallback)
+
+Domanda 600: Nel lattosio il legame glicosidico è:
+A) Opzione B (Fallback)
+B) b-1,4-glicosidico
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 601: Nel legame a idrogeno l’idrogeno lega 2 atomi X ed Y-X-H-Y-, identificare  l’affermazione…:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) (l’atomo X può essere uguale a Y E l’angolo di legame XHY dev’essere vicino a 180°  SONO SBAGLIATE)2
+D) Opzione B (Fallback)
+
+Domanda 602: Nel maltosio il legame glicosidico è:
+A) Opzione B (Fallback)
+B) a-1,4-glicosidico
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 603: Nel meccanismo della SN1 l'intermedio è rappresentato da un:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) carbocatione
+D) Opzione A (Fallback)
+
+Domanda 604: Nel meccanismo di formazione degli acetali il primo intermedio è:
+A) l'emiacetale
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 605: Nel metanolo l'atomo di carbonio ha un n.o. pari a:
+A) Opzione B (Fallback)
+B) -2
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 606: Nel modello atomico ipotizzato da Thomson:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) la carica positiva è distribuita omogeneamente nell'atomo e gli elettroni vi si  collocano all'interno come l'uvetta nel panettone
+D) Opzione B (Fallback)
+
+Domanda 607: Nel solfato di alluminio sono presenti:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) 2 atomi di alluminio, 3 di zolfo e 12 di ossigeno
+D) Opzione B (Fallback)
+
+Domanda 608: Nell’acqua il legame a idrogeno determina:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) l’elevata temperatura di ebollizione
+
+Domanda 609: Nella convenzione di Cahn, Ingold e Prelog il sistema R e S definisce:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) la configurazione assoluta
+
+Domanda 610: Nella disidratazione degli alcoli la regola di Zaitsef prevede che:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) si forma preferenzialmente l'alchene più sostituito
+
+Domanda 611: nella molecola NH3, l’atomo di azoto mette in compartecipazione con ciascun  atomo di H:
+A) un elettrone
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 612: nella pila Daniell avviene la reazione di ossidoriduzione:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Cu2++Zn→Zn2++Cu
+
+Domanda 613: Nella rappresentazione cartesiana di una curva di titolazione acido-base si ha:
+A) Opzione A (Fallback)
+B) il pH (sull'asse delle y) in funzione del volume del titolante aggiunto (sull'asse delle  x)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 614: Nella reazione C2H5OH + CH3OHA -> C2H5OCH3+H2O, il composto organico che si  forma è:
+A) Opzione C (Fallback)
+B) un etere
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 615: Nella reazione di addizione elettrofila di acido bromidrico all’1-butene, il  carbocatione che si forma è:
+A) secondario
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 616: Nella reazione di formazione delle immine il pH ottimale è:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) pH=7-8
+
+Domanda 617: Nella reazione tra l’acido acetico e l’alcol etilico si ottiene:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) acetato di etile
+
+Domanda 618: Nella reazione Zn+2HCl →ZnCl2+H2:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) lo zinco è il riducente
+
+Domanda 619: Nella seguente sezione quanti elettroni vengono scambiati? 2MnO4- + 5Sn2+ +  16H+ 2Mn2+ +SN54++HO82
+A) Opzione B (Fallback)
+B) 10
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 620: nella tavola periodica degli elementi , considerando gli atomi presenti in un gruppo,  dall’alto verso il basso, essi presentano energia di ionizzazione:
+A) progressivamente decrescente
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 621: Nella trasformazione di ghiaccio in acqua l’entropia del sistema acqua-ghiaccio:
+A) Opzione B (Fallback)
+B) aumenta
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 622: Nell'acido metanoico (acido formico) l'atomo di carbonio ha un n.o. pari a:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) 2
+D) Opzione C (Fallback)
+
+Domanda 623: Nelle aldeidi e chetoni gli atomi del C=O sono ibridati:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) entrambi sp2
+D) Opzione A (Fallback)
+
+Domanda 624: Nelle ammidi il legame C-N ha un forte carattere di doppio legame per cui risulta  essere:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) possedere una ridotta libertà rotazionale
+D) Opzione C (Fallback)
+
+Domanda 625: Nelle ammine l'azoto ha rispettivamente ibridazione e geometria:
+A) Opzione B (Fallback)
+B) sp3 con geometria tetraedrica
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 626: Nelle ammine, il carbonio legato all'azoto può avere numero di ossidazione  compreso tra:
+A) 0 e +3
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 627: Nelle proiezioni di Fisher per convenzione i due legami orizzontali si considerano  diretti:
+A) Opzione A (Fallback)
+B) verso l'osservatore
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 628: Nelle proiezioni di Fisher scambiando due volte la posizione reciproca di due  sostituenti:
+A) Opzione A (Fallback)
+B) non si osserva inversione di configurazione
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 629: Nelle proiezioni di Howarth degli zuccheri della serie D il gruppo OH sta al di sopra  del piano nell'anomero:
+A) Opzione C (Fallback)
+B) □
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 630: Nelle proteine la struttura secondaria può assumere una forma:
+A) Opzione B (Fallback)
+B) a-elica e foglietto b
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 631: Nelle reazioni chimiche, l'uso delle frecce a punta intera indica:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) lo spostamento di doppietti elettronici
+
+Domanda 632: Nelle reazioni di combustione con O2:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) il combustibile si ossida mentre O2 si riduce
+D) Opzione C (Fallback)
+
+Domanda 633: Nelle reazioni di idrogenazione catalitica i metalli più utilizzati sono:
+A) platino, il palladio ed il nichel
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 634: nelle reazioni di ossidoriduzione avvengono sempre trasferimenti di:
+A) Opzione B (Fallback)
+B) elettroni
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 635: nelle reazioni di ossidoriduzione avviene sempre un passaggio di:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) elettroni tra specie chimiche diverse
+
+Domanda 636: Nelle reazioni di SN2 l'acqua e gli alcoli sono:
+A) nucleofili deboli
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 637: nello stato energetico fondamentale, gli elettroni tendono a occupare prima il livello  che ha:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) minore energia e minore distanza dal nucleo
+
+Domanda 638: Non possono formare tra loro legami a idrogeno:
+A) le ammine terziarie
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 639: Numerosi doppi legami in coniugazione all’interno di un composto organico in  genere danno luogo a:
+A) Opzione A (Fallback)
+B) colore visibile
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 640: Olio e acqua insieme formano:
+A) Opzione B (Fallback)
+B) una miscela eterogenea
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 641: ordinare in ordine crescente di elettronegatività i seguenti elementi:
+A) Opzione B (Fallback)
+B) Mg, Cl, Na: Na, Mg, Cl
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 642: Per definizione, uno ione è:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) un atomo o un gruppo di atomi legati aventi una carica
+D) Opzione C (Fallback)
+
+Domanda 643: Per disidratazione degli alcoli si ottengono:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) alcheni
+
+Domanda 644: Per il primo principio della termodinamica:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) ΔU = q + w
+D) Opzione A (Fallback)
+
+Domanda 645: Per il secondo principio della termodinamica:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) ΔStot > 0
+
+Domanda 646: Per isotopi di uno stesso elemento si intendono nuclidi:
+A) Opzione A (Fallback)
+B) con stesso numero di protoni ma con diverso numero di neutroni
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 647: Per la reazione 2A + 4B ↔ 3C + D l'espressione della costante di equilibrio K:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) K = ([C]3 × [D])/([A]2 ×[B]4)
+
+Domanda 648: Per la reazione 3A + 5B ↔ C + 2D l'espressione della costante di equilibrio K:
+A) K = ([C] × [D]²)/([A]³ ×[B]⁵)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 649: per legame ionico si intende la forza di attrazione:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) tra ioni di segno opposto
+D) Opzione C (Fallback)
+
+Domanda 650: per ossidazione del metanolo si può ottenere:
+A) Opzione C (Fallback)
+B) formaldeide
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 651: Per ossidazione dell’alcool etilico si ottiene:
+A) acetone oppure acido acetico
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 652: Per ossidazione di aldeidi si ottengono?:
+A) acidi carbossilici
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 653: Per ottenere un acido carbossilico occorrono:
+A) Opzione A (Fallback)
+B) alcool primario e ossidante
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 654: Per quanti atomi di idrogeno il benzene differisce dal cicloesano?:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) 6
+
+Domanda 655: Per rallentare l’irrancidimento ossidativo, quale di questi NON è un buon metodo?:
+A) Opzione B (Fallback)
+B) aggiungere sale
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 656: Per reagente limitante si intende:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) un reagente che limita stechiometricamente la quantità di prodotto che può essere  formata in una reazione chimica
+D) Opzione C (Fallback)
+
+Domanda 657: Per riduzione di aldeidi o chetoni ottengo:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) alcoli
+D) Opzione C (Fallback)
+
+Domanda 658: PF5 è un composto:
+A) Opzione A (Fallback)
+B) covalente a bipiramide trigonale
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 659: Procedendo da sinistra a destra in un dato periodo della tavola periodica,  l’elettronegatività degli elementi solitamente:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) aumenta
+
+Domanda 660: qual è il valore del pH di una soluzione acquosa contenente 0,001 moli di HCl in 10  litri ?
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) 4
+
+Domanda 661: Qual è il volume minimo di ossigeno necessario per la combustione completa di 400  ml di propano? Si assuma che entrambi i gas siano ideali e che abbiano la stessa  pressione e temperatura.
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) 2000ml
+
+Domanda 662: qual è la caratteristica geometrica di un legame ammidico?:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) tutti gli atomi legati all’azoto e al CO ammidico giacciono sullo stesso piano
+D) Opzione B (Fallback)
+
+Domanda 663: qual è la concentrazione molare dell’acqua?:
+A) 55, 5 M
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 664: qual è la formula bruta del dimetilchetone?
+A) C3H6O
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 665: Qual è la massa atomica relativa media del neon?
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) 20,18 u
+D) Opzione B (Fallback)
+
+Domanda 666: Qual è la quantità massima di Ni(OH)2 Che potrebbe formarsi per reazione di 25.9 g  di NiCL2 con 10 g di NaOH?:
+A) Opzione C (Fallback)
+B) 11.6 g di NiOH
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 667: Qual’è il nome del composto ClCH2CH2OH?:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) 2-cloroetanolo
+
+Domanda 668: Qual’è il numero di ossidazione del carbonio nel composto C4H10?:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) - 2.5
+
+Domanda 669: qual’è il numero minimo di atomi di idrogeno necessario per costituire una molecola  d’ammonio?:
+A) 12
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 670: Qual’è il prodotto di reazione di HBr+Eptene?:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) (R,S bromoeptano)
+
+Domanda 671: Qual’è l’ordine corretto dei seguenti legami in termini di polarità decrescente?:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) As—Cl, P—Cl, N—Cl
+
+Domanda 672: Qual’è la caratteristica principale delle reazioni di ossidoriduzione:
+A) Opzione C (Fallback)
+B) le specie chimiche che partecipano alle reazioni variano il proprio numero di  ossidazione
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 673: Quale affermazione è corretta?
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Una mole di O2 pesa 32g
+
+Domanda 674: Quale affermazione riguardante la costante di equilibrio è falsa ?:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) è sempre priva di unità dimisura
+
+Domanda 675: Quale affermazione sui derivati degli acidi carbossilici NON è vera?:
+A) hanno tutti all’incirca la stessa stabilità e reattività
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 676: Quale classe di solventi ha la polarità più alta (a parità di atomi di carbonio):
+A) Opzione B (Fallback)
+B) alcoli
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 677: Quale composto è un acido organico
+A) CH3COOH
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 678: Quale composto è un idrocarburo saturo:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) ETANO
+D) Opzione B (Fallback)
+
+Domanda 679: Quale dei disaccaridi sotto riportati NON è riducente ?:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) saccarosio
+
+Domanda 680: Quale dei seguenti composti è un alcool?:
+A) Opzione A (Fallback)
+B) CH3—CH2—CH2OH
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 681: Quale dei seguenti composti ionici ha l’energia reticolare maggiore?:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) MgO
+
+Domanda 682: Quale dei seguenti è classificato come un metallo?:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Ge
+
+Domanda 683: Quale dei seguenti è un metallo di transizione f ?:
+A) Fe
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 684: Quale dei seguenti elementi forma il legame più ionico con il cloro?:
+A) Opzione B (Fallback)
+B) K
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 685: Quale dei seguenti gruppi di elementi è disposto in modo corretto nell’ordine di  aumento dell’energia di prima ionizzazione?:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Al<B<O<F
+
+Domanda 686: quale dei seguenti ossidi reagisce con acqua per formare un composto a carattere  acido?:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) CrO3
+
+Domanda 687: Quale dei seguenti sali, se sciolto in acqua modifica il pH in senso basico:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) K2S
+D) Opzione C (Fallback)
+
+Domanda 688: quale delle seguenti affermazioni è falsa?:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) tra una molecola di butano e una di alcoolbutilico si formano legami a idrogeno
+D) Opzione B (Fallback)
+
+Domanda 689: Quale delle seguenti affermazioni sui metalli NON è vera:
+A) hanno un elevato potenziale di ionizzazione
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 690: Quale delle seguenti affermazioni sull’ossigeno è errata?:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) l’ossigeno ha comportamento semimetallico
+D) Opzione B (Fallback)
+
+Domanda 691: Quale delle seguenti affermazioni sulle ammine NON è vera:
+A) tranne che per le ammine terziarie, formano legami ad idrogeno
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 692: Quale delle seguenti coppie di sostanze rappresenta due isomeri:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) etanolo, dimetiletere
+
+Domanda 693: Quale delle seguenti molecole è chirale?:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Trans-1,2- dimetilcicloesano
+
+Domanda 694: Quale delle seguenti molecole è polare?:
+A) Opzione B (Fallback)
+B) NF3
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 695: Quale delle seguenti soluzioni è una soluzione tampone?:
+A) Una soluzione di H2CO3 + NaHCO3.
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 696: Quale delle seguenti sostanze è un amminoacido?:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Glicina
+
+Domanda 697: Quale delle sottostanti NON è una regola di Huckel per stabilire se un composto è  aromatico:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) la molecola deve essere neutra
+
+Domanda 698: Quale di queste affermazioni sulla struttura di Lewis più probabile dell’acido nitrico  NON è corretta?:
+A) Opzione C (Fallback)
+B) non esistono atomi carichi
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 699: Quale di queste affermazioni sulla struttura di Lewis più probabile dell’acido  solforico (H2SO4) non è corretta?:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) tutti gli atomi hanno intorno esattamente otto elettroni, a parte gli idrogeni che ne  hanno 2
+D) Opzione B (Fallback)
+
+Domanda 700: Quale di questi atomi ha il potenziale di ionizzazione più elevato?:
+A) cloro Cl
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 701: Quale elemento richiede la maggiore energia per convertire una mole di atomi  gassosi in una mole di ioni gassosi con carica 2+?
+A) Cromo
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 702: Quale elemento richiedepiù energia per convertire una mole di atomi gassosi in ioni  gassosi recanti una carica positiva?:
+A) Opzione B (Fallback)
+B) litio
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 703: quale elemento tra quelli indicati non appartiene allo stesso gruppo chimico degli  altri quattro?:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) elio
+D) Opzione B (Fallback)
+
+Domanda 704: Quale equazione rappresenta la prima energia di ionizzazione del fluoro?:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) F(g) →F+(g) + eˉ
+D) Opzione A (Fallback)
+
+Domanda 705: Quale gruppo è presente negli zuccheri?
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) aldeidico o chetonico
+
+Domanda 706: Quale ione ha raggio maggiore?:
+A) S2-
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 707: Quale prod otto si forma dall’idratazione dell’acetone?:
+A) diolo geminale
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 708: Quale proprietà del 1° gruppo di elementi può essere rappresentata dal grafico?
+A) Dimensione atomica
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 709: Quale tra i seguenti composti è quello aromatico?
+A) Opzione B (Fallback)
+B) Acido benzoico
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 710: Quale tra i seguenti composti è un alogeno alchilico?:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) CH3Cl
+D) Opzione C (Fallback)
+
+Domanda 711: Quale tra i seguenti composti sarà più dissociato in acqua?:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Cloruro di sodio
+
+Domanda 712: Quale tra i seguenti è il legame più polare senza essere considerato ionico?
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) C—O
+
+Domanda 713: Quale tra i seguenti è l’acido più debole?:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) CH3COOH
+D) Opzione A (Fallback)
+
+Domanda 714: Quale tra i seguenti elementi può formare 3 legami covalenti semplici con 3 atomi di  cloro?:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) B
+
+Domanda 715: Quale tra i seguenti legami si riscontra nella molecola HBr?
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Covalente polare
+D) Opzione B (Fallback)
+
+Domanda 716: Quale tra le seguenti sostanze NON è un composto?:
+A) diamante
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 717: Quali fra i seguenti prodotti derivano dall’ossidazione di un alcol primario:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) aldeide
+D) Opzione C (Fallback)
+
+Domanda 718: Quali gruppi funzionali sono solitamente presenti negli zuccheri?:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) gruppi ossidrilici e aldeidici
+
+Domanda 719: Quali legami chimici determinano la struttura primaria di una proteina:
+A) LEGAMI COVALENTI
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 720: Quando esiste una proporzionalità diretta tra la velocità di reazione e la  concentrazione di un solo componente, la reazione è detta:
+A) Opzione C (Fallback)
+B) DI PRIMO ORDINE
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 721: Quando il biossido di zolfo reagisce con l’acqua si forma:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) ( acido solforico E’ SBAGLIATA)
+
+Domanda 722: Quando la pressione atmosferica diminuisce, la temperatura a cui bolle l'acqua in  un contenitore aperto
+A) Opzione C (Fallback)
+B) diminuisce
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 723: Quando la pressione di un dato campione di gas aumenta, a temperatura costante,  la massa del campione:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) rimane costante
+D) Opzione B (Fallback)
+
+Domanda 724: Quando s riscalda un gas si verifica sempre:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) un aumento dell’energia cinetica media delle molecole
+D) Opzione B (Fallback)
+
+Domanda 725: Quando si ha l’isometria ottica?:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) quando si ha la presenza di un carbonio chirale
+
+Domanda 726: Quando si riscalda un gas si verifica sempre:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) un aumento dell’energia cinetica media delle sue molecole
+D) Opzione C (Fallback)
+
+Domanda 727: Quando un atomo di Ba diventa ione Ba2+ il suo raggio:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) diminuisce
+
+Domanda 728: Quando un atomo di cloro diventa uno ione cloruro le sue dimensioni:
+A) aumentano
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 729: Quando un elettrone è promosso da un livello elettronico ad energia minore ad uno  eccitato ad energia maggiore, esso:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) assorbe una quantità di energia definita
+
+Domanda 730: Quanti atomi di idrogeno sono presenti in una molecola di solfato d’ammonio ?:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) 8
+D) Opzione C (Fallback)
+
+Domanda 731: Quanti grammi di una sostanza avente peso molecolare pari a 100 u.m.a. sono  necessari per preparare 10 ml di una soluzione 2,5 M?
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) 2,50
+
+Domanda 732: Quanti mL di una soluzione 0.05 M HCl sono necessari per neutralizzare 50 mL di  idrossido di sodio 0.1 M?
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) 100ml
+D) Opzione A (Fallback)
+
+Domanda 733: Quanti stereoisomeri ha il 2-pentene?:
+A) 2
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 734: quanto pesa una mole di carbonio (num massa 12, num atomico 6)?:
+A) Opzione A (Fallback)
+B) 12 g
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 735: Quanto più un acido è forte tanto più:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) la sua base coniugata è debole
+D) Opzione B (Fallback)
+
+Domanda 736: Riconosci l’affermazione errata. L’energia libera di Gibbs:
+A) la sua variazione deltaG corrisponde a TdeltaS.
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 737: Riguardo alla molecola dell’azoto molecolare possiamo affermare:
+A) Opzione A (Fallback)
+B) tutte e 3 le risposte sono corrette
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 738: Rispetto all'acido benzoico i suoi derivati con gruppi elettronattrattori sono:
+A) più acidi
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 739: Sciogliendo il solfato di sodio in acqua, esso si dissocia in:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) due ioni carichi positivamente e uno ione carico negativamente
+D) Opzione B (Fallback)
+
+Domanda 740: Scrivete bilanciati la reazione tra acido solforico e idrossido di litio.usando la  reazione bilanciata indicate quanti grammi di idrossido servono per reagire  stechiometrico amente con 20 g di acido (massa molare H2SO4= 98 g/mol; Massa  molare LiOH=24 g/mol):
+A) Opzione A (Fallback)
+B) circa 10 g
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 741: Se 1L di una soluzione acquosa di HCL avente PH= 4 viene diluita con acqua a un  volume dieci volte maggiore 10 L il PH della soluzione ottenuta è:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) 5
+D) Opzione C (Fallback)
+
+Domanda 742: Se in una molecola ci sono dei legami polari essa:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) può essere polare oppure no
+D) Opzione C (Fallback)
+
+Domanda 743: Se in una reazione gli ioni Ag+ in soluzione si trasformano in atomi del metallo, ciò  significa che gli ioni A+:
+A) agiscono da ossidanti
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 744: Se in una soluzione acquosa la concentrazione di OH- è pari a 10-4M allora la  concentrazione di H è pari a:
+A) Opzione C (Fallback)
+B) 10-10
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 745: Se si diminuisce la pressione che insiste sulla superficie di un liquido la  temperatura di ebollizione di questo:
+A) si abbassa
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 746: se si scioglie un po’ di zucchero in acqua distillata, si ottiene una soluzione che:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) solidifica ad una temperatura più bassa della temperatura di solidificazione  dell’acqua distillata
+
+Domanda 747: Se un grasso presenta un elevato valore di numero di iodio:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) sarà ricco di grassi insaturi e probabilmente liquido
+D) Opzione C (Fallback)
+
+Domanda 748: Se una reazione ha una costante di equilibrio molto piccola:
+A) Opzione A (Fallback)
+B) all’equilibrio sono presenti molti più reagenti che prodotti
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 749: Se una soluzione è satura di un soluto S:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) non può disciogliere altro soluto S alla stessa temperatura
+D) Opzione A (Fallback)
+
+Domanda 750: Secondo il modello atomico di Bohr, l'energia dell'elettrone:
+A) Opzione B (Fallback)
+B) può assumere solo alcuni valori ben definiti
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 751: Secondo la legge di Lavoiser in una trasformazione chimica rimane costante:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) la massa del sistema
+D) Opzione B (Fallback)
+
+Domanda 752: Secondo la reazione H2SO4+LiOH~H2O+Li2SO4 indicate quanti grammi di acido  servono x reagire stechiometricamente con 20 g di idrossido di litio:
+A) Opzione C (Fallback)
+B) circa 40 g
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 753: Secondo la teoria di Arrhenius:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) gli acidi sono sostanze capaci di rilasciare in acqua idrogenioni H+, mentre le basi  in acqua liberano ioni idrossido OH-
+
+Domanda 754: Secondo la teoria VSEPR una molecola tende ad assumere una disposizione  spaziale tale che:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) le coppie elettroniche (di legame e solitarie) si dispongano il più lontano possibile  fra loro
+
+Domanda 755: Si chiama titolazione acido-base:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) la determinazione della concentrazione di un acido mediante l'aggiunta di una base  a titolo noto, o viceversa
+
+Domanda 756: Si definisce ‘amminoacido essenziale’ un amminoacido:
+A) che non può essere sintetizzato da un dato organismo
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 757: Si definiscono isomeri
+A) composti chimici che presentano identica formula grezza e quindi mededima massa  molecolare, ma diverse caratteristiche chimico/fisiche
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 758: Si dispongono Cesio(CS), Litio (LI), Potassio (K) e Sodio (NA) in ordine di  ionizzazione crescente:
+A) CS<K<NA<Li
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 759: Si ponga in ordine di basicità decrescente le seguenti ammine, in fase gassosa:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) ammina secondaria, terziaria, primaria, ammoniaca: ammina terziaria, secondaria,  primaria ed ammoniaca
+
+Domanda 760: Sono dette sostanze organiche naturali:
+A) Opzione C (Fallback)
+B) tutte le sostanze trovate in un essere vivente
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 761: Sono prodotti dell’ossidazione di un alcol primario:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) aldeide
+
+Domanda 762: Tra i derivati degli acidi carbossilici nei confronti della reazione di sostituzione  nucleofila acilica il più reattivo e il meno reattivo sono:
+A) alogenuri acilici e ammidi
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 763: Tra i seguenti l’atomo avente maggiore energia di prima ionizzazione è:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) fuoro F
+D) Opzione C (Fallback)
+
+Domanda 764: Tra il pH di una soluzione di acido cloridrico e quello di una soluzione di acido  acetico alla stessa concentrazione…:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) risulta minore il primo
+
+Domanda 765: Tra le seguenti affermazioni riguardanti il numero atomico (Z) del 12C, individuare quella FALSA:
+A) è dato dalla media ponderata delle masse di tutti gli isotopi del C
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 766: Tra le seguenti la molecola polare è:
+A) ammoniaca NH3
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 767: Tra le seguenti molecole, una è tetraedrica:
+A) CH4
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 768: Tra l'isomero cis e quello trans di un alchene quello più stabile è l'isomero:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) trans
+
+Domanda 769: Tra un alchene trisostituito e uno disostituito quello più stabile è:
+A) trisostituito
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 770: Tra un carbocatione terziario (3°), secondario (2°) e primario (1°) l'ordine di stabilità  è:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) 3°>2°>1°
+D) Opzione C (Fallback)
+
+Domanda 771: Un acido carbossilico è più acido di un alcol perché:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) la base coniugata dell’acido carbossilico è stabilizzata per risonanza
+
+Domanda 772: Un acido è una specie che può formare un legame covalente accettando una coppia  di elettroni da un'altra specie. Questa definizione si deve a:
+A) Opzione C (Fallback)
+B) Lewis
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 773: Un agente ossidante è una sostanza che:
+A) Opzione A (Fallback)
+B) Acquista elettroni
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 774: Un agente riducente è una sostanza che:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) perde elettroni
+
+Domanda 775: Un alcano è un composto organico:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) costituito solo da idrogeno e carbonio
+D) Opzione C (Fallback)
+
+Domanda 776: Un ammide è
+A) Opzione C (Fallback)
+B) più stabile di un estere perché la carica positiva dovuta alla risonanza è più stabile  sull'ossigeno
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 777: Un atomo di carbonio legato a quattro altri atomi di carbonio prende il nome di:
+A) carbonio quaternario
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 778: un atomo di carbonio, ibridizzato sp3, presenta:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) quattro legami singoli
+
+Domanda 779: Un atomo ibridato sp3 ha geometria:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) tetraedrica
+
+Domanda 780: Un atomo ibridizzato sp3 è definito prochirale se:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) cambiando uno dei gruppi ad esso legato l'atomo diviene chirale
+D) Opzione A (Fallback)
+
+Domanda 781: Un atomo neutro contiene 13 protoni, 13 elettroni e 14 neutroni, il peso atomico è  circa:
+A) Opzione B (Fallback)
+B) 27
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 782: Un carbonio ibridato sp ha geometria:
+A) Opzione C (Fallback)
+B) lineare
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 783: Un carbonio secondario è un carbonio legato:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) a due altri atomi di carbonio
+
+Domanda 784: Un catalizzatore al termine di una sostanza chimica:
+A) si ritrova chimicamente inalterato
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 785: Un catalizzatore ha l’effetto di:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) aumentare la velocità di reazione
+
+Domanda 786: Un catalizzatore in una reazione chimica agisce:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) abbassando l’energia di attivazione della reazione
+D) Opzione A (Fallback)
+
+Domanda 787: Un composto otticamente puro è:
+A) Opzione B (Fallback)
+B) un composto chirale presente con una sola configurazione
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 788: Un elemento è costituito da atomi:
+A) Opzione A (Fallback)
+B) aventi lo stesso numero di protoni
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 789: Un gas è più solubile in un liquido in condizioni di:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) bassa temperatura e alta pressione
+
+Domanda 790: Un gas perfetto o ideale è un insieme di particelle che verifica uno dei seguenti  requisiti:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) il moto delle particelle è casuale
+
+Domanda 791: Un idrocarburo è
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) un composto costituito da atomi di C e H
+
+Domanda 792: Un idruro è:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) un composto binario formato dall’idrogeno e un altro elemento
+
+Domanda 793: Un ione Ca2+ differisce da un atomo di Ca in quanto lo ione Ca2+ ha
+A) Opzione C (Fallback)
+B) meno elettroni
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 794: Un legame covalente "puro" si stabilisce tra due atomi:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) con identica elettronegatività
+
+Domanda 795: Un ossidante è una sostanza che:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) acquista elettroni
+
+Domanda 796: Un peptide è:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) un ridotto numero di amminoacidi legati tra loro da legame ammidico
+
+Domanda 797: Un potenziale standard di riduzione negativo implica che:
+A) Opzione A (Fallback)
+B) la reazione di ossidazione è favorita
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 798: Un processo o trasformazione che avviene a pressione costante è detto:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) isobaro
+D) Opzione B (Fallback)
+
+Domanda 799: Un reagente elettrofilo è:
+A) Opzione B (Fallback)
+B) tanto più reattivo quanto più è povero di elettroni.
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 800: Un reagente nucleofilo è:
+A) Opzione A (Fallback)
+B) tanto più reattivo quanto più è ricco di elettroni
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 801: Un recipiente di quattro litri, munito di coperchio mobile, contiene gas azoto a 20°C  ed alla pressione standard; se, mantenendo costante la temperatura, il volume  viene portato a sedici litri innalzando il coperchio, la pressione diventa uguale a:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) 0,25 atm
+
+Domanda 802: Un riducente è una sostanza che:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) cede elettroni
+
+Domanda 803: Un sistema tampone ha la proprietà di:
+A) un sistema capace di evitare la modifica del pH di una soluzione in seguito  all’aggiunta di piccole quantità di acido e di base
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 804: Un valore nullo della variazione di energia libera indica che la reazione è:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) all’equilibrio
+D) Opzione B (Fallback)
+
+Domanda 805: Un valore positivo della variazione di energia libera indica che la reazione è:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) non spontanea
+
+Domanda 806: Un’alfa elica è un tipico esempio di:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) struttura secondaria
+D) Opzione A (Fallback)
+
+Domanda 807: Una caratteristica degli alogeni consiste nel possedere:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) alta elettronegatività
+
+Domanda 808: Una delle seguenti affermazioni su di un processo endotermico è corretta:
+A) l'entalpia del sistema aumenta
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 809: Una delle seguenti affermazioni su di un processo esotermico è errata:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) ∆H è positivo
+D) Opzione A (Fallback)
+
+Domanda 810: Una delle seguenti affermazioni sui composti covalenti è corretta:
+A) Opzione C (Fallback)
+B) i composti fusi o liquidi non conducono bene l'elettricità
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 811: Una delle seguenti affermazioni sui composti ionici è errata:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) i loro composti fusi non conducono l'elettricità
+
+Domanda 812: Una delle seguenti affermazioni sulla costante cinetica è errata:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) non varia con la presenza di un catalizzatore
+D) Opzione A (Fallback)
+
+Domanda 813: Una delle seguenti affermazioni sulla costante di equilibrio K è errata:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) È esprimibile come il rapporto tra il prodotto delle concentrazioni dei reagenti della  reazione,elevate ai rispettivi coefficienti stechiometrici, ed il prodotto delle  concentrazioni dei prodotti,elevate ai rispettivi coefficienti stechiometrici
+D) Opzione C (Fallback)
+
+Domanda 814: Una delle seguenti affermazioni sulla radiazione elettromagnetica è errata:
+A) Opzione A (Fallback)
+B) la lunghezza d'onda e la frequenza della radiazione non sono correlate tra loro
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 815: Una delle seguenti affermazioni sulla solubilità è errata:
+A) non dipende dalla temperatura
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 816: Una delle seguenti affermazioni sulla specie riducente è errata:
+A) contiene atomi che vengono ridotti
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 817: Una delle seguenti affermazioni sulla Tavola Periodica è errata:
+A) Opzione B (Fallback)
+B) gli elementi sono distribuiti nella tavola periodica secondo il numero di neutroni  posseduti da ciascun elemento
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 818: Una delle seguenti molecole ha angoli minori di 109,5°:
+A) Opzione B (Fallback)
+B) acqua, H2O
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 819: Una delle seguenti non è una proprietà chimica delle soluzioni tampone:
+A) il pH varia al variare della diluizione
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 820: Una proprietà estensiva è:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) una proprietà che dipende dalle dimensioni del campione
+
+Domanda 821: Una reazione a costante di equilibrio pari a 10 elevato a zero. Quindi all’equilibrio i  reagenti sono:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) presenti a una concentrazione circa uguale a quella dei prodotti
+
+Domanda 822: Una reazione a deltaH pari a -200 kj/mole e deltaS pari a -20J/K mole:
+A) è spontanea solo a basse temperature
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 823: Una reazione che ha una variazione di entalpia pari a +150 kJ/mole:
+A) Opzione A (Fallback)
+B) esotermica ed avviene spontaneamente
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 824: Una reazione chimica è spontanea se:
+A) ΔG reazione < 0
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 825: Una reazione di idratazione al doppio legame produce:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) alcol
+D) Opzione B (Fallback)
+
+Domanda 826: Una reazione è entropicamente favorita quando ad essa si associa un:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) ΔS > 0
+
+Domanda 827: Una reazione è sicuramente spontanea quando:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) ∆H 0 e ∆G
+
+Domanda 828: Una reazione è spontanea se la somma dei potenziali delle due semireazioni di  riduzione e ossidazione è un numero:
+A) Opzione C (Fallback)
+B) positivo
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 829: Una reazione esotermica:
+A) può essere spontanea o non spontanea
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 830: Una reazione ha una variazione di entalpia pari a -200 kJ/mole:
+A) Opzione A (Fallback)
+B) è esotermica ma non posso predire la spontaneità solo con questo dato
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 831: Una reazione in cui uno dei reagenti è un gas e l'altro è un liquido o un solido è  detta:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) eterogenea
+D) Opzione C (Fallback)
+
+Domanda 832: Una reazione tra un alcool e un acido produce un estere e:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) acqua
+D) Opzione C (Fallback)
+
+Domanda 833: Una soluzione 0.1 M di CH3COOH (acido acetico, pKa circa 5) avrà un pH di circa:
+A) 3
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 834: Una soluzione 0.1 M di CH3COONA (acetato di sodio pKa circa 9) avrà un ph di  circa:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) 9
+D) Opzione A (Fallback)
+
+Domanda 835: Una soluzione 0.1 molale si prepara sciogliendo 0.1 mol di soluto in:
+A) 1 kg di solvente puro
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 836: Una soluzione acida è caratterizzata:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) da una concentrazione di ioni idrogeno superiore a quella di ioni ossidrile
+D) Opzione C (Fallback)
+
+Domanda 837: Una soluzione acquosa 1M di hcl (pm= 37 uma) contiene:
+A) Opzione C (Fallback)
+B) 37 g di ccl in 1l di soluzione
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 838: Una soluzione acquosa 1mM contiene nel volume di un litro un numero di moli pari  a:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) 0,001
+D) Opzione A (Fallback)
+
+Domanda 839: Una soluzione che ha pH= 3 è da considerarsi:
+A) Opzione B (Fallback)
+B) acida
+C) Opzione A (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 840: Una soluzione di cloruro di sodio pm =58g/mol ha una concentrazione pari a 2 M.  100 ml di questa soluzione contengono?:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) 11,7 g di NaCl
+D) Opzione A (Fallback)
+
+Domanda 841: Una soluzione di HNO3 contiene 5 grammi in un litro di soluzione. Indicare il suo pH:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) 1.1
+
+Domanda 842: Una soluzione di NaOH a temperatura di 25°C ha una molarità pari a:1.9 x 10-4.  Determinare il pH della soluzione:
+A) Opzione C (Fallback)
+B) Circa 10.3
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 843: Una soluzione tampone è:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) una soluzione capace di evitare la modifica del suo pH in seguito all’aggiunta di  piccole quantità di acido e di base
+
+Domanda 844: Una soluzione tampone può essere costituita da una miscela di:
+A) acido debole in presenza del proprio sale con base forte
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 845: Una sostanza anfotera è:
+A) acqua
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 846: Una sostanza si ossida quando:
+A) Opzione C (Fallback)
+B) Opzione B (Fallback)
+C) Opzione A (Fallback)
+D) cede elettroni a un accettore
+
+Domanda 847: Una tra le seguenti non è una delle proprietà caratteristiche di un liquido:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) disordine a corto raggio e ordine a lungo raggio
+
+Domanda 848: Una tra le seguenti non è una proprietà colligativa delle soluzioni:
+A) Opzione C (Fallback)
+B) conducibilità elettrica
+C) Opzione A (Fallback)
+D) Opzione B (Fallback)
+
+Domanda 849: Una tra le seguenti non è una proprietà dei metalli:
+A) fragilità
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 850: Una tra le seguenti non rappresenta una situazione di eccezione alla regola  dell'ottetto:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) molecole e ioni per cui si possa scrivere più di una formula di Lewis valida
+D) Opzione C (Fallback)
+
+Domanda 851: Una tra queste non è tra le principali caratteristiche dei gas:
+A) Opzione A (Fallback)
+B) Opzione C (Fallback)
+C) Opzione B (Fallback)
+D) immiscibilità
+
+Domanda 852: Una tra queste non è una base forte:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) HCl
+
+Domanda 853: Una tra queste non è una proprietà fisica dei metalli:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) hanno alta tensione di vapore
+D) Opzione C (Fallback)
+
+Domanda 854: Una tra queste non è una variabile di stato:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) lavoro
+D) Opzione C (Fallback)
+
+Domanda 855: Uno Ca2- differisce da un atomo di Ca in quanto lo ione C. ha:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) meno elettroni oppure più elettroni
+D) Opzione A (Fallback)
+
+Domanda 856: Uno di questi composti contiene almeno un legame ionico:
+A) solfato di sodio Na2SO4
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) Opzione C (Fallback)
+
+Domanda 857: Uno di questi composti è apolare:
+A) Opzione C (Fallback)
+B) metano, CH4 (acqua H2O E’SBAGLIATA)
+C) Opzione B (Fallback)
+D) Opzione A (Fallback)
+
+Domanda 858: Uno ione Ca2+ differisce da un atomo di Ca in quanto lo ione Ca2 ha
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) meno elettroni
+D) Opzione B (Fallback)
+
+Domanda 859: Uno ione di Ca 2+ ha la stessa configurazione elettronica del:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) (idem x Mg2+ se la a. è Ca2+) Ar
+D) Opzione C (Fallback)
+
+Domanda 860: Uno ione è:
+A) Opzione C (Fallback)
+B) Opzione A (Fallback)
+C) Opzione B (Fallback)
+D) un atomo che, in particolari condizioni, perde o acquista elettroni, diventando così  una specie elettricamente carica
+
+Domanda 861: Uno tra questi è un acido debole:
+A) Opzione B (Fallback)
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) CH3COOH
+
+Domanda 862: Uno tra questi non è uno dei fattori che influenzano la velocità di unareazione:
+A) Opzione B (Fallback)
+B) Opzione C (Fallback)
+C) Opzione A (Fallback)
+D) dimensioni dell'ambiente di reazione
+
+Domanda 863: Uno tra questi processi non ha ΔSsist > 0:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) diminuzione della temperatura
+
+Domanda 864: Uno zucchero, un gruppo fosfato e una base azotata formano:
+A) Opzione A (Fallback)
+B) Opzione B (Fallback)
+C) Opzione C (Fallback)
+D) un nucleotide
+
+Domanda 865: V = k[A]n se n = 1 la reazione è:
+A) del primo ordine
+B) Opzione A (Fallback)
+C) Opzione C (Fallback)
+D) Opzione B (Fallback)
+
+
+--- Risposte Corrette ---
+Domanda 1: D
+Domanda 2: C
+Domanda 3: A
+Domanda 4: C
+Domanda 5: C
+Domanda 6: B
+Domanda 7: C
+Domanda 8: D
+Domanda 9: B
+Domanda 10: D
+Domanda 11: D
+Domanda 12: B
+Domanda 13: A
+Domanda 14: D
+Domanda 15: A
+Domanda 16: C
+Domanda 17: A
+Domanda 18: C
+Domanda 19: A
+Domanda 20: B
+Domanda 21: C
+Domanda 22: C
+Domanda 23: B
+Domanda 24: C
+Domanda 25: D
+Domanda 26: B
+Domanda 27: B
+Domanda 28: D
+Domanda 29: A
+Domanda 30: B
+Domanda 31: C
+Domanda 32: D
+Domanda 33: B
+Domanda 34: C
+Domanda 35: D
+Domanda 36: C
+Domanda 37: D
+Domanda 38: C
+Domanda 39: D
+Domanda 40: D
+Domanda 41: C
+Domanda 42: B
+Domanda 43: D
+Domanda 44: D
+Domanda 45: B
+Domanda 46: D
+Domanda 47: C
+Domanda 48: D
+Domanda 49: D
+Domanda 50: B
+Domanda 51: C
+Domanda 52: A
+Domanda 53: B
+Domanda 54: C
+Domanda 55: C
+Domanda 56: C
+Domanda 57: A
+Domanda 58: D
+Domanda 59: A
+Domanda 60: C
+Domanda 61: C
+Domanda 62: D
+Domanda 63: D
+Domanda 64: C
+Domanda 65: A
+Domanda 66: C
+Domanda 67: B
+Domanda 68: B
+Domanda 69: A
+Domanda 70: B
+Domanda 71: C
+Domanda 72: B
+Domanda 73: A
+Domanda 74: D
+Domanda 75: D
+Domanda 76: B
+Domanda 77: D
+Domanda 78: A
+Domanda 79: D
+Domanda 80: B
+Domanda 81: B
+Domanda 82: D
+Domanda 83: A
+Domanda 84: A
+Domanda 85: A
+Domanda 86: B
+Domanda 87: C
+Domanda 88: B
+Domanda 89: C
+Domanda 90: D
+Domanda 91: C
+Domanda 92: A
+Domanda 93: B
+Domanda 94: A
+Domanda 95: D
+Domanda 96: A
+Domanda 97: A
+Domanda 98: B
+Domanda 99: D
+Domanda 100: A
+Domanda 101: D
+Domanda 102: D
+Domanda 103: D
+Domanda 104: B
+Domanda 105: B
+Domanda 106: C
+Domanda 107: C
+Domanda 108: B
+Domanda 109: A
+Domanda 110: C
+Domanda 111: B
+Domanda 112: C
+Domanda 113: D
+Domanda 114: C
+Domanda 115: A
+Domanda 116: D
+Domanda 117: D
+Domanda 118: B
+Domanda 119: D
+Domanda 120: C
+Domanda 121: A
+Domanda 122: D
+Domanda 123: C
+Domanda 124: C
+Domanda 125: C
+Domanda 126: D
+Domanda 127: D
+Domanda 128: B
+Domanda 129: B
+Domanda 130: A
+Domanda 131: C
+Domanda 132: A
+Domanda 133: A
+Domanda 134: A
+Domanda 135: A
+Domanda 136: B
+Domanda 137: C
+Domanda 138: A
+Domanda 139: C
+Domanda 140: D
+Domanda 141: C
+Domanda 142: A
+Domanda 143: D
+Domanda 144: D
+Domanda 145: D
+Domanda 146: C
+Domanda 147: B
+Domanda 148: B
+Domanda 149: C
+Domanda 150: C
+Domanda 151: D
+Domanda 152: C
+Domanda 153: A
+Domanda 154: C
+Domanda 155: A
+Domanda 156: B
+Domanda 157: A
+Domanda 158: C
+Domanda 159: D
+Domanda 160: A
+Domanda 161: C
+Domanda 162: C
+Domanda 163: A
+Domanda 164: A
+Domanda 165: B
+Domanda 166: A
+Domanda 167: A
+Domanda 168: A
+Domanda 169: D
+Domanda 170: A
+Domanda 171: C
+Domanda 172: C
+Domanda 173: C
+Domanda 174: D
+Domanda 175: D
+Domanda 176: C
+Domanda 177: D
+Domanda 178: D
+Domanda 179: D
+Domanda 180: A
+Domanda 181: B
+Domanda 182: D
+Domanda 183: B
+Domanda 184: D
+Domanda 185: C
+Domanda 186: D
+Domanda 187: B
+Domanda 188: D
+Domanda 189: C
+Domanda 190: B
+Domanda 191: C
+Domanda 192: B
+Domanda 193: B
+Domanda 194: A
+Domanda 195: B
+Domanda 196: D
+Domanda 197: A
+Domanda 198: A
+Domanda 199: B
+Domanda 200: D
+Domanda 201: B
+Domanda 202: A
+Domanda 203: C
+Domanda 204: B
+Domanda 205: A
+Domanda 206: D
+Domanda 207: A
+Domanda 208: A
+Domanda 209: A
+Domanda 210: D
+Domanda 211: A
+Domanda 212: A
+Domanda 213: C
+Domanda 214: A
+Domanda 215: D
+Domanda 216: B
+Domanda 217: A
+Domanda 218: C
+Domanda 219: B
+Domanda 220: B
+Domanda 221: B
+Domanda 222: C
+Domanda 223: A
+Domanda 224: D
+Domanda 225: D
+Domanda 226: D
+Domanda 227: B
+Domanda 228: C
+Domanda 229: A
+Domanda 230: B
+Domanda 231: D
+Domanda 232: B
+Domanda 233: C
+Domanda 234: D
+Domanda 235: C
+Domanda 236: B
+Domanda 237: D
+Domanda 238: D
+Domanda 239: C
+Domanda 240: C
+Domanda 241: C
+Domanda 242: A
+Domanda 243: C
+Domanda 244: A
+Domanda 245: B
+Domanda 246: B
+Domanda 247: A
+Domanda 248: B
+Domanda 249: C
+Domanda 250: A
+Domanda 251: A
+Domanda 252: D
+Domanda 253: B
+Domanda 254: B
+Domanda 255: D
+Domanda 256: A
+Domanda 257: A
+Domanda 258: D
+Domanda 259: C
+Domanda 260: A
+Domanda 261: D
+Domanda 262: B
+Domanda 263: A
+Domanda 264: C
+Domanda 265: D
+Domanda 266: B
+Domanda 267: A
+Domanda 268: C
+Domanda 269: D
+Domanda 270: D
+Domanda 271: A
+Domanda 272: A
+Domanda 273: B
+Domanda 274: B
+Domanda 275: B
+Domanda 276: D
+Domanda 277: A
+Domanda 278: A
+Domanda 279: D
+Domanda 280: D
+Domanda 281: A
+Domanda 282: B
+Domanda 283: C
+Domanda 284: D
+Domanda 285: B
+Domanda 286: A
+Domanda 287: C
+Domanda 288: A
+Domanda 289: B
+Domanda 290: C
+Domanda 291: B
+Domanda 292: B
+Domanda 293: A
+Domanda 294: C
+Domanda 295: A
+Domanda 296: C
+Domanda 297: D
+Domanda 298: D
+Domanda 299: B
+Domanda 300: D
+Domanda 301: A
+Domanda 302: C
+Domanda 303: B
+Domanda 304: A
+Domanda 305: B
+Domanda 306: B
+Domanda 307: D
+Domanda 308: C
+Domanda 309: D
+Domanda 310: D
+Domanda 311: D
+Domanda 312: D
+Domanda 313: A
+Domanda 314: B
+Domanda 315: A
+Domanda 316: A
+Domanda 317: D
+Domanda 318: D
+Domanda 319: C
+Domanda 320: B
+Domanda 321: B
+Domanda 322: C
+Domanda 323: C
+Domanda 324: A
+Domanda 325: C
+Domanda 326: B
+Domanda 327: B
+Domanda 328: D
+Domanda 329: D
+Domanda 330: D
+Domanda 331: A
+Domanda 332: D
+Domanda 333: B
+Domanda 334: A
+Domanda 335: C
+Domanda 336: A
+Domanda 337: A
+Domanda 338: A
+Domanda 339: A
+Domanda 340: C
+Domanda 341: A
+Domanda 342: B
+Domanda 343: B
+Domanda 344: B
+Domanda 345: A
+Domanda 346: D
+Domanda 347: B
+Domanda 348: A
+Domanda 349: B
+Domanda 350: A
+Domanda 351: C
+Domanda 352: C
+Domanda 353: B
+Domanda 354: D
+Domanda 355: B
+Domanda 356: C
+Domanda 357: B
+Domanda 358: B
+Domanda 359: D
+Domanda 360: C
+Domanda 361: A
+Domanda 362: B
+Domanda 363: D
+Domanda 364: C
+Domanda 365: C
+Domanda 366: A
+Domanda 367: C
+Domanda 368: C
+Domanda 369: C
+Domanda 370: D
+Domanda 371: B
+Domanda 372: B
+Domanda 373: D
+Domanda 374: B
+Domanda 375: D
+Domanda 376: D
+Domanda 377: C
+Domanda 378: A
+Domanda 379: D
+Domanda 380: D
+Domanda 381: D
+Domanda 382: B
+Domanda 383: B
+Domanda 384: D
+Domanda 385: A
+Domanda 386: A
+Domanda 387: C
+Domanda 388: B
+Domanda 389: C
+Domanda 390: C
+Domanda 391: C
+Domanda 392: C
+Domanda 393: C
+Domanda 394: A
+Domanda 395: B
+Domanda 396: D
+Domanda 397: D
+Domanda 398: D
+Domanda 399: A
+Domanda 400: A
+Domanda 401: C
+Domanda 402: C
+Domanda 403: D
+Domanda 404: A
+Domanda 405: C
+Domanda 406: B
+Domanda 407: C
+Domanda 408: A
+Domanda 409: A
+Domanda 410: B
+Domanda 411: D
+Domanda 412: A
+Domanda 413: C
+Domanda 414: D
+Domanda 415: D
+Domanda 416: D
+Domanda 417: A
+Domanda 418: D
+Domanda 419: C
+Domanda 420: D
+Domanda 421: C
+Domanda 422: A
+Domanda 423: D
+Domanda 424: C
+Domanda 425: C
+Domanda 426: D
+Domanda 427: D
+Domanda 428: A
+Domanda 429: B
+Domanda 430: C
+Domanda 431: C
+Domanda 432: C
+Domanda 433: C
+Domanda 434: C
+Domanda 435: B
+Domanda 436: A
+Domanda 437: A
+Domanda 438: D
+Domanda 439: B
+Domanda 440: C
+Domanda 441: B
+Domanda 442: A
+Domanda 443: B
+Domanda 444: A
+Domanda 445: B
+Domanda 446: D
+Domanda 447: D
+Domanda 448: D
+Domanda 449: A
+Domanda 450: B
+Domanda 451: C
+Domanda 452: B
+Domanda 453: C
+Domanda 454: B
+Domanda 455: C
+Domanda 456: B
+Domanda 457: B
+Domanda 458: D
+Domanda 459: C
+Domanda 460: A
+Domanda 461: C
+Domanda 462: C
+Domanda 463: B
+Domanda 464: D
+Domanda 465: B
+Domanda 466: C
+Domanda 467: C
+Domanda 468: D
+Domanda 469: A
+Domanda 470: D
+Domanda 471: B
+Domanda 472: A
+Domanda 473: C
+Domanda 474: D
+Domanda 475: C
+Domanda 476: B
+Domanda 477: D
+Domanda 478: B
+Domanda 479: A
+Domanda 480: C
+Domanda 481: C
+Domanda 482: A
+Domanda 483: A
+Domanda 484: D
+Domanda 485: B
+Domanda 486: D
+Domanda 487: C
+Domanda 488: C
+Domanda 489: B
+Domanda 490: A
+Domanda 491: D
+Domanda 492: A
+Domanda 493: B
+Domanda 494: B
+Domanda 495: D
+Domanda 496: C
+Domanda 497: B
+Domanda 498: A
+Domanda 499: B
+Domanda 500: D
+Domanda 501: C
+Domanda 502: B
+Domanda 503: D
+Domanda 504: C
+Domanda 505: B
+Domanda 506: A
+Domanda 507: A
+Domanda 508: C
+Domanda 509: D
+Domanda 510: B
+Domanda 511: B
+Domanda 512: C
+Domanda 513: B
+Domanda 514: C
+Domanda 515: C
+Domanda 516: A
+Domanda 517: D
+Domanda 518: C
+Domanda 519: D
+Domanda 520: D
+Domanda 521: B
+Domanda 522: C
+Domanda 523: C
+Domanda 524: A
+Domanda 525: D
+Domanda 526: C
+Domanda 527: C
+Domanda 528: C
+Domanda 529: C
+Domanda 530: D
+Domanda 531: D
+Domanda 532: B
+Domanda 533: B
+Domanda 534: C
+Domanda 535: D
+Domanda 536: B
+Domanda 537: C
+Domanda 538: C
+Domanda 539: D
+Domanda 540: A
+Domanda 541: D
+Domanda 542: D
+Domanda 543: A
+Domanda 544: C
+Domanda 545: D
+Domanda 546: A
+Domanda 547: A
+Domanda 548: D
+Domanda 549: D
+Domanda 550: B
+Domanda 551: C
+Domanda 552: B
+Domanda 553: B
+Domanda 554: B
+Domanda 555: D
+Domanda 556: D
+Domanda 557: D
+Domanda 558: D
+Domanda 559: B
+Domanda 560: D
+Domanda 561: A
+Domanda 562: D
+Domanda 563: B
+Domanda 564: A
+Domanda 565: B
+Domanda 566: C
+Domanda 567: A
+Domanda 568: B
+Domanda 569: C
+Domanda 570: B
+Domanda 571: A
+Domanda 572: B
+Domanda 573: A
+Domanda 574: B
+Domanda 575: B
+Domanda 576: C
+Domanda 577: B
+Domanda 578: D
+Domanda 579: C
+Domanda 580: D
+Domanda 581: C
+Domanda 582: B
+Domanda 583: C
+Domanda 584: C
+Domanda 585: D
+Domanda 586: C
+Domanda 587: C
+Domanda 588: A
+Domanda 589: B
+Domanda 590: A
+Domanda 591: D
+Domanda 592: B
+Domanda 593: B
+Domanda 594: A
+Domanda 595: A
+Domanda 596: D
+Domanda 597: D
+Domanda 598: A
+Domanda 599: C
+Domanda 600: B
+Domanda 601: C
+Domanda 602: B
+Domanda 603: C
+Domanda 604: A
+Domanda 605: B
+Domanda 606: C
+Domanda 607: C
+Domanda 608: D
+Domanda 609: D
+Domanda 610: D
+Domanda 611: A
+Domanda 612: D
+Domanda 613: B
+Domanda 614: B
+Domanda 615: A
+Domanda 616: D
+Domanda 617: D
+Domanda 618: D
+Domanda 619: B
+Domanda 620: A
+Domanda 621: B
+Domanda 622: C
+Domanda 623: C
+Domanda 624: C
+Domanda 625: B
+Domanda 626: A
+Domanda 627: B
+Domanda 628: B
+Domanda 629: B
+Domanda 630: B
+Domanda 631: D
+Domanda 632: C
+Domanda 633: A
+Domanda 634: B
+Domanda 635: D
+Domanda 636: A
+Domanda 637: D
+Domanda 638: A
+Domanda 639: B
+Domanda 640: B
+Domanda 641: B
+Domanda 642: C
+Domanda 643: D
+Domanda 644: C
+Domanda 645: D
+Domanda 646: B
+Domanda 647: D
+Domanda 648: A
+Domanda 649: C
+Domanda 650: B
+Domanda 651: A
+Domanda 652: A
+Domanda 653: B
+Domanda 654: D
+Domanda 655: B
+Domanda 656: C
+Domanda 657: C
+Domanda 658: B
+Domanda 659: D
+Domanda 660: D
+Domanda 661: D
+Domanda 662: C
+Domanda 663: A
+Domanda 664: A
+Domanda 665: C
+Domanda 666: B
+Domanda 667: D
+Domanda 668: D
+Domanda 669: A
+Domanda 670: D
+Domanda 671: D
+Domanda 672: B
+Domanda 673: D
+Domanda 674: D
+Domanda 675: A
+Domanda 676: B
+Domanda 677: A
+Domanda 678: C
+Domanda 679: D
+Domanda 680: B
+Domanda 681: D
+Domanda 682: D
+Domanda 683: A
+Domanda 684: B
+Domanda 685: D
+Domanda 686: D
+Domanda 687: C
+Domanda 688: C
+Domanda 689: A
+Domanda 690: C
+Domanda 691: A
+Domanda 692: D
+Domanda 693: D
+Domanda 694: B
+Domanda 695: A
+Domanda 696: D
+Domanda 697: D
+Domanda 698: B
+Domanda 699: C
+Domanda 700: A
+Domanda 701: A
+Domanda 702: B
+Domanda 703: C
+Domanda 704: C
+Domanda 705: D
+Domanda 706: A
+Domanda 707: A
+Domanda 708: A
+Domanda 709: B
+Domanda 710: C
+Domanda 711: D
+Domanda 712: D
+Domanda 713: C
+Domanda 714: D
+Domanda 715: C
+Domanda 716: A
+Domanda 717: C
+Domanda 718: D
+Domanda 719: A
+Domanda 720: B
+Domanda 721: D
+Domanda 722: B
+Domanda 723: C
+Domanda 724: C
+Domanda 725: D
+Domanda 726: C
+Domanda 727: D
+Domanda 728: A
+Domanda 729: D
+Domanda 730: C
+Domanda 731: D
+Domanda 732: C
+Domanda 733: A
+Domanda 734: B
+Domanda 735: C
+Domanda 736: A
+Domanda 737: B
+Domanda 738: A
+Domanda 739: C
+Domanda 740: B
+Domanda 741: C
+Domanda 742: C
+Domanda 743: A
+Domanda 744: B
+Domanda 745: A
+Domanda 746: D
+Domanda 747: C
+Domanda 748: B
+Domanda 749: C
+Domanda 750: B
+Domanda 751: C
+Domanda 752: B
+Domanda 753: D
+Domanda 754: D
+Domanda 755: D
+Domanda 756: A
+Domanda 757: A
+Domanda 758: A
+Domanda 759: D
+Domanda 760: B
+Domanda 761: D
+Domanda 762: A
+Domanda 763: C
+Domanda 764: D
+Domanda 765: A
+Domanda 766: A
+Domanda 767: A
+Domanda 768: D
+Domanda 769: A
+Domanda 770: C
+Domanda 771: D
+Domanda 772: B
+Domanda 773: B
+Domanda 774: D
+Domanda 775: C
+Domanda 776: B
+Domanda 777: A
+Domanda 778: D
+Domanda 779: D
+Domanda 780: C
+Domanda 781: B
+Domanda 782: B
+Domanda 783: D
+Domanda 784: A
+Domanda 785: D
+Domanda 786: C
+Domanda 787: B
+Domanda 788: B
+Domanda 789: D
+Domanda 790: D
+Domanda 791: D
+Domanda 792: D
+Domanda 793: B
+Domanda 794: D
+Domanda 795: D
+Domanda 796: D
+Domanda 797: B
+Domanda 798: C
+Domanda 799: B
+Domanda 800: B
+Domanda 801: D
+Domanda 802: D
+Domanda 803: A
+Domanda 804: C
+Domanda 805: D
+Domanda 806: C
+Domanda 807: D
+Domanda 808: A
+Domanda 809: C
+Domanda 810: B
+Domanda 811: D
+Domanda 812: C
+Domanda 813: C
+Domanda 814: B
+Domanda 815: A
+Domanda 816: A
+Domanda 817: B
+Domanda 818: B
+Domanda 819: A
+Domanda 820: D
+Domanda 821: D
+Domanda 822: A
+Domanda 823: B
+Domanda 824: A
+Domanda 825: C
+Domanda 826: D
+Domanda 827: D
+Domanda 828: B
+Domanda 829: A
+Domanda 830: B
+Domanda 831: C
+Domanda 832: C
+Domanda 833: A
+Domanda 834: C
+Domanda 835: A
+Domanda 836: C
+Domanda 837: B
+Domanda 838: C
+Domanda 839: B
+Domanda 840: C
+Domanda 841: D
+Domanda 842: B
+Domanda 843: D
+Domanda 844: A
+Domanda 845: A
+Domanda 846: D
+Domanda 847: D
+Domanda 848: B
+Domanda 849: A
+Domanda 850: C
+Domanda 851: D
+Domanda 852: D
+Domanda 853: C
+Domanda 854: C
+Domanda 855: C
+Domanda 856: A
+Domanda 857: B
+Domanda 858: C
+Domanda 859: C
+Domanda 860: D
+Domanda 861: D
+Domanda 862: D
+Domanda 863: D
+Domanda 864: D
+Domanda 865: A
